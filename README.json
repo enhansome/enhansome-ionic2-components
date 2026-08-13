@@ -1,0 +1,1415 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NgTranslate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T05:55:18Z",
+            "owner": "ngx-translate",
+            "repo": "core",
+            "stars": 4660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-I10n",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-18T08:32:26Z",
+            "owner": "robisim74",
+            "repo": "angular-l10n",
+            "stars": 375
+          }
+        }
+      ],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi Level Sidemenu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-10-12T13:43:16Z",
+            "owner": "sebaferreras",
+            "repo": "Ionic3-MultiLevelSideMenu",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrollabel Tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-04-26T13:08:17Z",
+            "owner": "SinoThomas",
+            "repo": "Ionic2-ScrollableTabs",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circular Tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-11-28T21:47:08Z",
+            "owner": "SinoThomas",
+            "repo": "Ionic2-CircularTabs",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fab Toolbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T16:38:26Z",
+            "owner": "ekhmoi",
+            "repo": "fab-toolbar",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Popover Sidemenu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-10-30T16:55:51Z",
+            "owner": "philipbrack",
+            "repo": "ionic2-menu-alternative-popover",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Menu, Tabs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dynamic Forms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-06T11:28:40Z",
+            "owner": "udos86",
+            "repo": "ng-dynamic-forms",
+            "stars": 1309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Form Generator based on JSON",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:04:24Z",
+            "owner": "guillotinaweb",
+            "repo": "ngx-schema-form",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autocomplete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:36:25Z",
+            "owner": "kadoshms",
+            "repo": "ionic2-autocomplete",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tags Input",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-03-11T15:01:13Z",
+            "owner": "hsuanxyz",
+            "repo": "ionic-tags-input",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidemenu tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-01-27T13:13:54Z",
+            "owner": "seanmavley",
+            "repo": "ionic2-sidemenu-tabs",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Form Builder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-11-28T23:38:07Z",
+            "owner": "rohitg7",
+            "repo": "ionic2-form-builder",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Form / Input"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Inputfield Mask",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-26T18:32:18Z",
+            "owner": "text-mask",
+            "repo": "text-mask",
+            "stars": 8217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rating",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T18:25:37Z",
+            "owner": "andrucz",
+            "repo": "ionic2-rating",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Calendar",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": "(very powerful)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-04-08T15:19:00Z",
+                "owner": "mattlewis92",
+                "repo": "angular-calendar",
+                "stars": 2824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-05-31T15:21:43Z",
+                "owner": "twinssbc",
+                "repo": "Ionic2-Calendar",
+                "stars": 389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar - Fullcalendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2018-05-26T15:34:53Z",
+                "owner": "nekken",
+                "repo": "ng2-fullcalendar",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2017-10-12T12:43:25Z",
+                "owner": "alexandretok",
+                "repo": "easy-ionic2-calendar",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2017-09-22T02:48:21Z",
+                "owner": "redpandatronicsuk",
+                "repo": "ionic2calendar",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Datepicker",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datepicker (selectable range dates calendar)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2022-12-08T22:14:55Z",
+                "owner": "hsuanxyz",
+                "repo": "ion2-calendar",
+                "stars": 549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datepicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2022-12-07T23:24:11Z",
+                "owner": "misha130",
+                "repo": "ion-datepicker",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datepicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-11-02T16:34:52Z",
+                "owner": "rajeshwarpatlolla",
+                "repo": "ionic2-datepicker",
+                "stars": 13
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Input - Date/Calendar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flexible and Light Table",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T04:04:02Z",
+            "owner": "swimlane",
+            "repo": "ngx-datatable",
+            "stars": 4671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart table (sorting, filtering ...)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T16:52:31Z",
+            "owner": "akveo",
+            "repo": "ng2-smart-table",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sortable/Filter Tables",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-26T15:57:10Z",
+            "owner": "valor-software",
+            "repo": "ng2-table",
+            "stars": 544
+          }
+        }
+      ],
+      "title": "Lists/Table"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lazy Load",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:27:35Z",
+            "owner": "tjoskar",
+            "repo": "ng-lazyload-image",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lazy image loader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:27:35Z",
+            "owner": "tjoskar",
+            "repo": "ng-lazyload-image",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Loader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T12:31:22Z",
+            "owner": "zyra",
+            "repo": "ionic-image-loader",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T21:05:45Z",
+            "owner": "Riron",
+            "repo": "ionic-img-viewer",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Signatur",
+          "description": "works perfect with",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-12T06:57:01Z",
+            "owner": "wulfsolter",
+            "repo": "angular2-signaturepad",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gallery Modal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-02-06T19:38:02Z",
+            "owner": "nikini",
+            "repo": "ionic-gallery-modal",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Fallback",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-20T16:32:10Z",
+            "owner": "VadimDez",
+            "repo": "ngx-img-fallback",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Zoom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-10-03T19:45:18Z",
+            "owner": "brtnshrdr",
+            "repo": "angular2-image-zoom",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Gallery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-12-15T23:05:51Z",
+            "owner": "skyfloyd",
+            "repo": "ionic2-fb-gallery",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Charts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T12:38:00Z",
+            "owner": "valor-software",
+            "repo": "ng2-charts",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "D3 Approaches",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "D3 Service",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2020-03-26T02:21:29Z",
+                "owner": "tomwanzek",
+                "repo": "d3-ng2-service",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D3 Line/Bar/Pie Charts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-03-02T00:48:09Z",
+                "owner": "datencia",
+                "repo": "d3js-angular-examples",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D3 Barchart",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Charts/Diagram"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Audioplayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-12T18:41:35Z",
+            "owner": "arielfaur",
+            "repo": "ionic-audio",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-26T16:46:06Z",
+            "owner": "rossmartin",
+            "repo": "video-editor-ionic2",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Recorder",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Video/Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Digit Keyboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T00:46:19Z",
+            "owner": "skol-pro",
+            "repo": "ion-digit-keyboard-v2",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pincode Keyboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-05-02T10:54:04Z",
+            "owner": "hsuanxyz",
+            "repo": "ionic2-pincode-input",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Keyboards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Support for OAuth 2 and OpenId Connect (OIDC) in Angular.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-05T09:19:08Z",
+            "owner": "manfredsteyer",
+            "repo": "angular-oauth2-oidc",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auth with Token",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-22T14:49:04Z",
+            "owner": "neroniaky",
+            "repo": "angular-token",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auth with ionic2 SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-07T01:30:36Z",
+            "owner": "LoginRadius",
+            "repo": "ionic2-sdk",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firebase Rest API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:28:33Z",
+            "owner": "angular",
+            "repo": "angularfire",
+            "stars": 7809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Web Token (JWT)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T01:56:51Z",
+            "owner": "auth0",
+            "repo": "angular2-jwt",
+            "stars": 2627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Analytics (Google, Piwik, Kissmetrics and more)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-13T11:52:49Z",
+            "owner": "angulartics",
+            "repo": "angulartics2",
+            "stars": 1009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Wrapper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-06-14T11:16:06Z",
+            "owner": "zyra",
+            "repo": "ngx-facebook",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salesforce Rest API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-12T20:12:03Z",
+            "owner": "ccoenraets",
+            "repo": "forcejs",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokémons API",
+          "description": "(Pokémons - no joke!)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-24T23:25:06Z",
+            "owner": "loiane",
+            "repo": "ionic2-pokedex",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amazon - AWS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-25T03:26:51Z",
+            "owner": "vbudilov",
+            "repo": "ionic-app-with-aws-cognito",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PouchDB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-05-08T06:04:59Z",
+            "owner": "ashteya",
+            "repo": "ionic2-tutorial-pouchdb",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-25T00:16:59Z",
+            "owner": "scottopolis",
+            "repo": "ionic2-wp-api",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQL Interface",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-11-07T01:26:59Z",
+            "owner": "seand88",
+            "repo": "ionic2-sql-interface",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codepush & Ionic2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-08-29T03:38:44Z",
+            "owner": "ksachdeva",
+            "repo": "ionic2-code-push",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Emotion API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-10-15T17:06:51Z",
+            "owner": "nghduc97",
+            "repo": "emo-clash",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pipe Collection (around 20 pipes for strings etc)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-10T20:54:55Z",
+            "owner": "danrevah",
+            "repo": "ngx-pipes",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filtering Array",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-08T19:31:34Z",
+            "owner": "VadimDez",
+            "repo": "ngx-filter-pipe",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Pipe"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ionic 2 Advanced Components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-27T11:32:21Z",
+            "owner": "yannbf",
+            "repo": "ionic3-components",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T17:42:18Z",
+            "owner": "marcoturi",
+            "repo": "ionic-boilerplate",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORC Scan App",
+          "description": "based on ocrad.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-21T15:21:37Z",
+            "owner": "matiastucci",
+            "repo": "ionic-ocr-example",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cordova File Transfer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-29T21:39:47Z",
+            "owner": "dsgriffin",
+            "repo": "ionic-3-file-transfer-example",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFC Demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-01-02T18:22:35Z",
+            "owner": "RedFroggy",
+            "repo": "ionic2-nfc-app",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Update your App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-09-04T22:56:55Z",
+            "owner": "NextFaze",
+            "repo": "ionic-manup",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fullscreen Content",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-08-04T18:00:10Z",
+            "owner": "sebaferreras",
+            "repo": "Ionic3-FullscreenContent",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card Layout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-06-19T02:44:09Z",
+            "owner": "joshuamorony",
+            "repo": "ionic2-card-layout",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Boilerplate/Demo Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Conference App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T13:51:53Z",
+            "owner": "ionic-team",
+            "repo": "ionic-conference-app",
+            "stars": 3593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Component Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-27T11:32:21Z",
+            "owner": "yannbf",
+            "repo": "ionic3-components",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-23T19:28:21Z",
+            "owner": "hsuanxyz",
+            "repo": "ionic3-chat",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-15T05:30:34Z",
+            "owner": "ccoenraets",
+            "repo": "ionic2-realty",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-09T21:06:14Z",
+            "owner": "aggarwalankush",
+            "repo": "ionic-mosum",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Push Notification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-06-30T04:20:00Z",
+            "owner": "aggarwalankush",
+            "repo": "ionic-push-base",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit Reader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-12-11T05:48:18Z",
+            "owner": "smartapant",
+            "repo": "ionic2-reddit-reader",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restaurant App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-31T16:44:34Z",
+            "owner": "srehanuddin",
+            "repo": "Ionic2-ResturantApp",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geo Fence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-21T21:41:10Z",
+            "owner": "tsubik",
+            "repo": "ionic2-geofence",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inoffical \"Myki\" App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-05-07T00:51:43Z",
+            "owner": "longzheng",
+            "repo": "mypal-ionic",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-12-01T05:03:15Z",
+            "owner": "hughred22",
+            "repo": "Ionic2-Angular2-YouTube-Channel-App",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indexed Scroll Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-08-28T09:13:08Z",
+            "owner": "hsuanxyz",
+            "repo": "ionic2-indexed-scroll",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firebase Chat App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-03-13T12:48:16Z",
+            "owner": "ionic2blueprints",
+            "repo": "firebase-chat",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Media Player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-04-03T09:44:09Z",
+            "owner": "ionic2blueprints",
+            "repo": "media-player",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-09-28T10:24:19Z",
+            "owner": "ionic2blueprints",
+            "repo": "social-app",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mHUD - Car App",
+          "description": "Speed tracking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-02-18T12:41:03Z",
+            "owner": "paulcockrell",
+            "repo": "mHUD",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ecommerce App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:18:33Z",
+            "owner": "ionic2blueprints",
+            "repo": "ionic2-marketcloud",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-08-31T17:21:25Z",
+            "owner": "ionic2blueprints",
+            "repo": "ionic2-wp-client",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Tracking App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:18:27Z",
+            "owner": "ionic2blueprints",
+            "repo": "ionic2-stockmarket",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conference App based on Lanyrd API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-08-31T17:03:17Z",
+            "owner": "ionic2blueprints",
+            "repo": "conference-app",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freshlypressed API App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-28T18:31:03Z",
+            "owner": "rajayogan",
+            "repo": "ionic2-freshlypressed",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Evangelist",
+          "description": "my own Homepage/App with getdirectus.com (in progress)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-08-20T17:22:23Z",
+            "owner": "fishme",
+            "repo": "app-evangelist.com",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Gallery",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Real-World App",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Bwitter - Twitter",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Timer App",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:08:31.044Z",
+    "original_repository": "fishme/awesome-ionic2-components",
+    "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
+    "enhanced_repository": "enhansome/enhansome-ionic2-components",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ionic 2+ Components with stars"
+  }
+}
