@@ -699,7 +699,7 @@
             "last_commit": "2026-07-05T09:19:08Z",
             "owner": "manfredsteyer",
             "repo": "angular-oauth2-oidc",
-            "stars": 1980
+            "stars": 1981
           }
         },
         {
@@ -713,7 +713,7 @@
             "last_commit": "2024-01-22T14:49:04Z",
             "owner": "neroniaky",
             "repo": "angular-token",
-            "stars": 367
+            "stars": 368
           }
         },
         {
@@ -744,10 +744,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:28:33Z",
+            "last_commit": "2026-08-13T15:56:51Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7809
+            "stars": 7808
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2024-01-10T20:54:55Z",
             "owner": "danrevah",
             "repo": "ngx-pipes",
-            "stars": 1572
+            "stars": 1571
           }
         },
         {
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:08:31.044Z",
+    "last_updated": "2026-08-14T06:05:58.214Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
     "enhanced_repository": "enhansome/enhansome-ionic2-components",
