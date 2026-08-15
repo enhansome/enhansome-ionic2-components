@@ -1076,7 +1076,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-29T13:51:53Z",
+            "last_commit": "2026-08-14T20:17:57Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:05:58.214Z",
+    "last_updated": "2026-08-15T05:17:10.621Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
     "enhanced_repository": "enhansome/enhansome-ionic2-components",
