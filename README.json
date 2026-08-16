@@ -252,7 +252,7 @@
                 "last_commit": "2026-04-08T15:19:00Z",
                 "owner": "mattlewis92",
                 "repo": "angular-calendar",
-                "stars": 2824
+                "stars": 2823
               }
             },
             {
@@ -747,7 +747,7 @@
             "last_commit": "2026-08-13T15:56:51Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7808
+            "stars": 7807
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-08T01:56:51Z",
             "owner": "auth0",
             "repo": "angular2-jwt",
-            "stars": 2627
+            "stars": 2625
           }
         },
         {
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:17:10.621Z",
+    "last_updated": "2026-08-16T05:15:00.251Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
     "enhanced_repository": "enhansome/enhansome-ionic2-components",
