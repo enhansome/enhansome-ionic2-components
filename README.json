@@ -19,7 +19,7 @@
             "last_commit": "2026-07-20T05:55:18Z",
             "owner": "ngx-translate",
             "repo": "core",
-            "stars": 4661
+            "stars": 4659
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2024-02-06T11:28:40Z",
             "owner": "udos86",
             "repo": "ng-dynamic-forms",
-            "stars": 1309
+            "stars": 1308
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-11T04:04:02Z",
             "owner": "swimlane",
             "repo": "ngx-datatable",
-            "stars": 4670
+            "stars": 4669
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2024-05-20T16:32:10Z",
             "owner": "VadimDez",
             "repo": "ngx-img-fallback",
-            "stars": 82
+            "stars": 81
           }
         },
         {
@@ -559,7 +559,7 @@
             "last_commit": "2026-03-05T12:38:00Z",
             "owner": "valor-software",
             "repo": "ng2-charts",
-            "stars": 2401
+            "stars": 2400
           }
         },
         {
@@ -634,7 +634,7 @@
             "last_commit": "2016-05-26T16:46:06Z",
             "owner": "rossmartin",
             "repo": "video-editor-ionic2",
-            "stars": 70
+            "stars": 69
           }
         },
         {
@@ -744,10 +744,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:29:02Z",
+            "last_commit": "2026-08-18T18:12:05Z",
             "owner": "angular",
             "repo": "angularfire",
-            "stars": 7807
+            "stars": 7806
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-01-13T11:52:49Z",
             "owner": "angulartics",
             "repo": "angulartics2",
-            "stars": 1009
+            "stars": 1008
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2024-01-10T20:54:55Z",
             "owner": "danrevah",
             "repo": "ngx-pipes",
-            "stars": 1571
+            "stars": 1570
           }
         },
         {
@@ -1405,7 +1405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:16:31.722Z",
+    "last_updated": "2026-08-19T05:17:01.422Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
     "enhanced_repository": "enhansome/enhansome-ionic2-components",
