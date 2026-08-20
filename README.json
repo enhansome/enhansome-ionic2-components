@@ -228,7 +228,7 @@
                     "last_commit": "2025-05-26T18:32:18Z",
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8216
+                    "stars": 8215
                   }
                 },
                 {
@@ -801,10 +801,10 @@
                 "archived": false,
                 "id": 44948282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-08T01:56:51Z",
+                "last_commit": "2026-08-20T01:27:05Z",
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2625
+                "stars": 2624
               }
             },
             {
@@ -1466,7 +1466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:40.174Z",
+    "last_updated": "2026-08-20T05:18:19.187Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_id": 82455196,
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",

@@ -37,7 +37,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,216 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,215 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
   * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,822 | 🐛 96 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
@@ -111,7 +111,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Others
 
 * [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,806 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-18 ![](angular.png)
-* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,625 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-08 ![](angular.png) ![](ionic.png)
+* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,624 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-20 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,008 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ⭐ 175 | 🐛 17 | 🌐 JavaScript | 📅 2018-01-12 ![](ionic.png) ![](angular.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
