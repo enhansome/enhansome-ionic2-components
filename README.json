@@ -263,7 +263,7 @@
                         "last_commit": "2026-04-08T15:19:00Z",
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2822
+                        "stars": 2821
                       }
                     },
                     {
@@ -786,10 +786,10 @@
                 "archived": false,
                 "id": 49453413,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T18:12:05Z",
+                "last_commit": "2026-08-20T18:31:27Z",
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7806
+                "stars": 7807
               }
             },
             {
@@ -1140,7 +1140,7 @@
             "archived": false,
             "id": 43385504,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:17:57Z",
+            "last_commit": "2026-08-20T21:40:14Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -1466,7 +1466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:18:19.187Z",
+    "last_updated": "2026-08-21T05:20:08.086Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_id": 82455196,
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
