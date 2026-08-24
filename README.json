@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-20T05:55:18Z",
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4659
+                "stars": 4660
               }
             },
             {
@@ -737,7 +737,7 @@
                 "last_commit": "2026-07-05T09:19:08Z",
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1981
+                "stars": 1980
               }
             },
             {
@@ -789,7 +789,7 @@
                 "last_commit": "2026-08-21T22:37:04Z",
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7807
+                "stars": 7805
               }
             },
             {
@@ -1466,7 +1466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:16:12.338Z",
+    "last_updated": "2026-08-24T05:26:36.092Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_id": 82455196,
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
