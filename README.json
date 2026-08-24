@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 44045057,
                 "language": "TypeScript",
-                "last_commit": "2026-07-20T05:55:18Z",
+                "last_commit": "2026-08-24T05:57:57Z",
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660
@@ -716,6 +716,72 @@
           "description": null,
           "node_type": "group",
           "title": "Keyboards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dialogbox with Counter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82540132,
+                "language": "CSS",
+                "last_commit": "2017-03-02T09:38:28Z",
+                "owner": "hsuanxyz",
+                "repo": "ionic2-extend-alert",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dialog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng Lightning (for Salesforce Apps)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52876196,
+                "language": "TypeScript",
+                "last_commit": "2024-07-03T18:59:06Z",
+                "owner": "ng-lightning",
+                "repo": "ng-lightning",
+                "stars": 914
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frames"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi Picker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66229637,
+                "language": "TypeScript",
+                "last_commit": "2022-03-02T12:31:47Z",
+                "owner": "raychenfj",
+                "repo": "ion-multi-picker",
+                "stars": 233
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Picker"
         }
       ],
       "title": "UI"
@@ -1133,6 +1199,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Ionic App Script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 67763937,
+            "language": "TypeScript",
+            "last_commit": "2020-04-30T19:55:26Z",
+            "owner": "ionic-team",
+            "repo": "ionic-app-scripts",
+            "stars": 603
+          }
+        }
+      ],
+      "title": "Build Stuff"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40690081,
+            "language": "TypeScript",
+            "last_commit": "2019-05-05T16:20:29Z",
+            "owner": "angular-redux",
+            "repo": "store",
+            "stars": 1330
+          }
+        }
+      ],
+      "title": "Code Stuff"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Conference App",
           "description": null,
           "children": [],
@@ -1140,7 +1248,7 @@
             "archived": false,
             "id": 43385504,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:23:20Z",
+            "last_commit": "2026-08-24T14:23:30Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -1466,7 +1574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:26:36.092Z",
+    "last_updated": "2026-08-24T14:33:39.830Z",
     "original_repository": "fishme/awesome-ionic2-components",
     "original_repository_id": 82455196,
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
