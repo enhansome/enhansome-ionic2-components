@@ -598,7 +598,7 @@
                 "last_commit": "2026-03-05T12:38:00Z",
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2401
+                "stars": 2400
               }
             },
             {
@@ -855,7 +855,7 @@
                 "last_commit": "2026-08-21T22:37:04Z",
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7805
+                "stars": 7804
               }
             },
             {
@@ -1574,9 +1574,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:19:36.819Z",
-    "original_repository": "fishme/awesome-ionic2-components",
-    "original_repository_id": 82455196,
+    "last_updated": "2026-08-27T11:44:12.211Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 82455196,
+      "language": null,
+      "last_commit": "2021-11-08T07:07:59Z",
+      "owner": "fishme",
+      "repo": "awesome-ionic2-components",
+      "stars": 203
+    },
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
     "enhanced_repository": "enhansome/enhansome-ionic2-components",
     "enhanced_repository_description": null,
