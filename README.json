@@ -18,7 +18,8 @@
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "robisim74",
                 "repo": "angular-l10n",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "sebaferreras",
                 "repo": "Ionic3-MultiLevelSideMenu",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "SinoThomas",
                 "repo": "Ionic2-ScrollableTabs",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "SinoThomas",
                 "repo": "Ionic2-CircularTabs",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "ekhmoi",
                 "repo": "fab-toolbar",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "philipbrack",
                 "repo": "ionic2-menu-alternative-popover",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -136,8 +143,9 @@
                 "last_commit": "2024-02-06T11:28:40Z",
                 "owner": "udos86",
                 "repo": "ng-dynamic-forms",
-                "stars": 1308
-              }
+                "stars": 1307
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "kadoshms",
                 "repo": "ionic2-autocomplete",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "hsuanxyz",
                 "repo": "ionic-tags-input",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "seanmavley",
                 "repo": "ionic2-sidemenu-tabs",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "rohitg7",
                 "repo": "ionic2-form-builder",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "children": [
@@ -229,7 +242,8 @@
                     "owner": "text-mask",
                     "repo": "text-mask",
                     "stars": 8214
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:57:26.215Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "andrucz",
                     "repo": "ionic2-rating",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:57:26.215Z"
                 },
                 {
                   "node_type": "group",
@@ -263,8 +278,9 @@
                         "last_commit": "2026-04-08T15:19:00Z",
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2821
-                      }
+                        "stars": 2822
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     },
                     {
                       "node_type": "item",
@@ -279,7 +295,8 @@
                         "owner": "twinssbc",
                         "repo": "Ionic2-Calendar",
                         "stars": 389
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     },
                     {
                       "node_type": "item",
@@ -294,7 +311,8 @@
                         "owner": "nekken",
                         "repo": "ng2-fullcalendar",
                         "stars": 94
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     },
                     {
                       "node_type": "item",
@@ -309,7 +327,8 @@
                         "owner": "alexandretok",
                         "repo": "easy-ionic2-calendar",
                         "stars": 16
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     },
                     {
                       "node_type": "item",
@@ -324,7 +343,8 @@
                         "owner": "redpandatronicsuk",
                         "repo": "ionic2calendar",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     }
                   ]
                 },
@@ -345,8 +365,9 @@
                         "last_commit": "2022-12-08T22:14:55Z",
                         "owner": "hsuanxyz",
                         "repo": "ion2-calendar",
-                        "stars": 549
-                      }
+                        "stars": 548
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     },
                     {
                       "node_type": "item",
@@ -361,7 +382,8 @@
                         "owner": "misha130",
                         "repo": "ion-datepicker",
                         "stars": 74
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     },
                     {
                       "node_type": "item",
@@ -376,7 +398,8 @@
                         "owner": "rajeshwarpatlolla",
                         "repo": "ionic2-datepicker",
                         "stars": 13
-                      }
+                      },
+                      "first_seen": "2026-08-28T16:57:26.215Z"
                     }
                   ]
                 }
@@ -405,7 +428,8 @@
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
                 "stars": 4669
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -419,8 +443,9 @@
                 "last_commit": "2024-08-12T16:52:31Z",
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1620
-              }
+                "stars": 1619
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -435,7 +460,8 @@
                 "owner": "valor-software",
                 "repo": "ng2-table",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -457,7 +483,8 @@
                 "owner": "tjoskar",
                 "repo": "ng-lazyload-image",
                 "stars": 751
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -472,7 +499,8 @@
                 "owner": "tjoskar",
                 "repo": "ng-lazyload-image",
                 "stars": 751
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -487,7 +515,8 @@
                 "owner": "zyra",
                 "repo": "ionic-image-loader",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -502,7 +531,8 @@
                 "owner": "Riron",
                 "repo": "ionic-img-viewer",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -517,7 +547,8 @@
                 "owner": "wulfsolter",
                 "repo": "angular2-signaturepad",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -532,7 +563,8 @@
                 "owner": "nikini",
                 "repo": "ionic-gallery-modal",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -547,7 +579,8 @@
                 "owner": "VadimDez",
                 "repo": "ngx-img-fallback",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -562,7 +595,8 @@
                 "owner": "brtnshrdr",
                 "repo": "angular2-image-zoom",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -577,7 +611,8 @@
                 "owner": "skyfloyd",
                 "repo": "ionic2-fb-gallery",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -599,7 +634,8 @@
                 "owner": "valor-software",
                 "repo": "ng2-charts",
                 "stars": 2400
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "group",
@@ -619,7 +655,8 @@
                     "owner": "tomwanzek",
                     "repo": "d3-ng2-service",
                     "stars": 204
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:57:26.215Z"
                 },
                 {
                   "node_type": "item",
@@ -634,7 +671,8 @@
                     "owner": "datencia",
                     "repo": "d3js-angular-examples",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:57:26.215Z"
                 }
               ]
             }
@@ -658,7 +696,8 @@
                 "owner": "arielfaur",
                 "repo": "ionic-audio",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -673,7 +712,8 @@
                 "owner": "rossmartin",
                 "repo": "video-editor-ionic2",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -695,7 +735,8 @@
                 "owner": "skol-pro",
                 "repo": "ion-digit-keyboard-v2",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -710,7 +751,8 @@
                 "owner": "hsuanxyz",
                 "repo": "ionic2-pincode-input",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -732,7 +774,8 @@
                 "owner": "hsuanxyz",
                 "repo": "ionic2-extend-alert",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -754,7 +797,8 @@
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
                 "stars": 914
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -775,8 +819,9 @@
                 "last_commit": "2022-03-02T12:31:47Z",
                 "owner": "raychenfj",
                 "repo": "ion-multi-picker",
-                "stars": 233
-              }
+                "stars": 232
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -804,7 +849,8 @@
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
                 "stars": 1979
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "neroniaky",
                 "repo": "angular-token",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -834,7 +881,8 @@
                 "owner": "LoginRadius",
                 "repo": "ionic2-sdk",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -856,7 +904,8 @@
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7804
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -867,11 +916,12 @@
                 "archived": false,
                 "id": 44948282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:27:05Z",
+                "last_commit": "2026-08-28T00:07:44Z",
                 "owner": "auth0",
                 "repo": "angular2-jwt",
                 "stars": 2624
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -885,8 +935,9 @@
                 "last_commit": "2026-01-13T11:52:49Z",
                 "owner": "angulartics",
                 "repo": "angulartics2",
-                "stars": 1008
-              }
+                "stars": 1007
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -901,7 +952,8 @@
                 "owner": "zyra",
                 "repo": "ngx-facebook",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -916,7 +968,8 @@
                 "owner": "ccoenraets",
                 "repo": "forcejs",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -931,7 +984,8 @@
                 "owner": "loiane",
                 "repo": "ionic2-pokedex",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -946,7 +1000,8 @@
                 "owner": "vbudilov",
                 "repo": "ionic-app-with-aws-cognito",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -961,7 +1016,8 @@
                 "owner": "ashteya",
                 "repo": "ionic2-tutorial-pouchdb",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1032,8 @@
                 "owner": "scottopolis",
                 "repo": "ionic2-wp-api",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -991,7 +1048,8 @@
                 "owner": "seand88",
                 "repo": "ionic2-sql-interface",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1064,8 @@
                 "owner": "ksachdeva",
                 "repo": "ionic2-code-push",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1080,8 @@
                 "owner": "nghduc97",
                 "repo": "emo-clash",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -1043,7 +1103,8 @@
                 "owner": "danrevah",
                 "repo": "ngx-pipes",
                 "stars": 1570
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1119,8 @@
                 "owner": "VadimDez",
                 "repo": "ngx-filter-pipe",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T16:57:26.215Z"
             }
           ],
           "description": null,
@@ -1083,8 +1145,9 @@
             "last_commit": "2025-11-27T11:32:21Z",
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1667
-          }
+            "stars": 1666
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1162,8 @@
             "owner": "marcoturi",
             "repo": "ionic-boilerplate",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1178,8 @@
             "owner": "matiastucci",
             "repo": "ionic-ocr-example",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1194,8 @@
             "owner": "dsgriffin",
             "repo": "ionic-3-file-transfer-example",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1210,8 @@
             "owner": "RedFroggy",
             "repo": "ionic2-nfc-app",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1226,8 @@
             "owner": "NextFaze",
             "repo": "ionic-manup",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1242,8 @@
             "owner": "sebaferreras",
             "repo": "Ionic3-FullscreenContent",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1258,8 @@
             "owner": "joshuamorony",
             "repo": "ionic2-card-layout",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         }
       ],
       "title": "Boilerplate/Demo Apps"
@@ -1210,7 +1280,8 @@
             "owner": "ionic-team",
             "repo": "ionic-app-scripts",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         }
       ],
       "title": "Build Stuff"
@@ -1231,7 +1302,8 @@
             "owner": "angular-redux",
             "repo": "store",
             "stars": 1330
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         }
       ],
       "title": "Code Stuff"
@@ -1252,7 +1324,8 @@
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1266,8 +1339,9 @@
             "last_commit": "2025-11-27T11:32:21Z",
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1667
-          }
+            "stars": 1666
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1356,8 @@
             "owner": "hsuanxyz",
             "repo": "ionic3-chat",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1296,8 +1371,9 @@
             "last_commit": "2016-11-15T05:30:34Z",
             "owner": "ccoenraets",
             "repo": "ionic2-realty",
-            "stars": 255
-          }
+            "stars": 254
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1388,8 @@
             "owner": "aggarwalankush",
             "repo": "ionic-mosum",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1404,8 @@
             "owner": "aggarwalankush",
             "repo": "ionic-push-base",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1420,8 @@
             "owner": "smartapant",
             "repo": "ionic2-reddit-reader",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1357,7 +1436,8 @@
             "owner": "srehanuddin",
             "repo": "Ionic2-ResturantApp",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1452,8 @@
             "owner": "tsubik",
             "repo": "ionic2-geofence",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1387,7 +1468,8 @@
             "owner": "longzheng",
             "repo": "mypal-ionic",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1402,7 +1484,8 @@
             "owner": "hughred22",
             "repo": "Ionic2-Angular2-YouTube-Channel-App",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1417,7 +1500,8 @@
             "owner": "hsuanxyz",
             "repo": "ionic2-indexed-scroll",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1432,7 +1516,8 @@
             "owner": "ionic2blueprints",
             "repo": "firebase-chat",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1447,7 +1532,8 @@
             "owner": "ionic2blueprints",
             "repo": "media-player",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1462,7 +1548,8 @@
             "owner": "ionic2blueprints",
             "repo": "social-app",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1564,8 @@
             "owner": "paulcockrell",
             "repo": "mHUD",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1580,8 @@
             "owner": "ionic2blueprints",
             "repo": "ionic2-marketcloud",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1596,8 @@
             "owner": "ionic2blueprints",
             "repo": "ionic2-wp-client",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1612,8 @@
             "owner": "ionic2blueprints",
             "repo": "ionic2-stockmarket",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1537,7 +1628,8 @@
             "owner": "ionic2blueprints",
             "repo": "conference-app",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1644,8 @@
             "owner": "rajayogan",
             "repo": "ionic2-freshlypressed",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         },
         {
           "node_type": "item",
@@ -1567,14 +1660,15 @@
             "owner": "fishme",
             "repo": "app-evangelist.com",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T16:57:26.215Z"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:55:10.537Z",
+    "last_updated": "2026-08-28T16:57:26.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 82455196,
