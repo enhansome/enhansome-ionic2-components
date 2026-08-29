@@ -111,7 +111,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Others
 
 * [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,804 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-21 ![](angular.png)
-* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,624 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28 ![](angular.png) ![](ionic.png)
+* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,625 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-28 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,007 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ⭐ 175 | 🐛 17 | 🌐 JavaScript | 📅 2018-01-12 ![](ionic.png) ![](angular.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

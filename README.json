@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The internationalization (i18n) library for Angular",
+                "homepage": "https://ngx-translate.org",
                 "id": 44045057,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T05:57:57Z",
+                "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4660
+                "stars": 4660,
+                "topics": [
+                  "angular",
+                  "i18n",
+                  "ngx",
+                  "ngx-translate",
+                  "npm-package",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -28,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular library to translate texts, dates and numbers",
+                "homepage": null,
                 "id": 41914426,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-18T08:32:26Z",
+                "open_issues": 2,
                 "owner": "robisim74",
                 "repo": "angular-l10n",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "angular",
+                  "localization",
+                  "translate",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -51,12 +73,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic 3 demo of a two-level side menu. ",
+                "homepage": null,
                 "id": 79659414,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-10-12T13:43:16Z",
+                "open_issues": 5,
                 "owner": "sebaferreras",
                 "repo": "Ionic3-MultiLevelSideMenu",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "angular",
+                  "ionic",
+                  "ionic2",
+                  "ionic3",
+                  "side-menu",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -67,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 71677542,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-04-26T13:08:17Z",
+                "open_issues": 8,
                 "owner": "SinoThomas",
                 "repo": "Ionic2-ScrollableTabs",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -83,12 +122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 71371051,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-28T21:47:08Z",
+                "open_issues": 0,
                 "owner": "SinoThomas",
                 "repo": "Ionic2-CircularTabs",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -99,12 +143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 69704656,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-07-18T16:38:26Z",
+                "open_issues": 0,
                 "owner": "ekhmoi",
                 "repo": "fab-toolbar",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -115,12 +164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt to create a menu like experience without dealing with the fact that menus in ionic 2 reload angular components.",
+                "homepage": null,
                 "id": 72322213,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2016-10-30T16:55:51Z",
+                "open_issues": 0,
                 "owner": "philipbrack",
                 "repo": "ionic2-menu-alternative-popover",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -138,12 +192,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rapid form development library for Angular",
+                "homepage": null,
                 "id": 60208434,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2024-02-06T11:28:40Z",
+                "open_issues": 128,
                 "owner": "udos86",
                 "repo": "ng-dynamic-forms",
-                "stars": 1307
+                "stars": 1307,
+                "topics": [
+                  "angular",
+                  "bootstrap",
+                  "dynamic-forms",
+                  "forms",
+                  "foundation",
+                  "ionic",
+                  "kendo-ui",
+                  "material",
+                  "ng-bootstrap",
+                  "ngx-bootstrap",
+                  "primeng"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -154,12 +225,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML form generation based on JSON Schema",
+                "homepage": null,
                 "id": 60182693,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T21:04:24Z",
+                "open_issues": 135,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
-                "stars": 483
+                "stars": 483,
+                "topics": [
+                  "angular",
+                  "angular2",
+                  "json-schema"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -170,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic 2 autocomplete component",
+                "homepage": null,
                 "id": 66005644,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-10T20:36:25Z",
+                "open_issues": 33,
                 "owner": "kadoshms",
                 "repo": "ionic2-autocomplete",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -186,12 +271,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ionic tags input component",
+                "homepage": "https://stackblitz.com/edit/ionic-tags-input",
                 "id": 87779298,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-03-11T15:01:13Z",
+                "open_issues": 18,
                 "owner": "hsuanxyz",
                 "repo": "ionic-tags-input",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "ionic",
+                  "ionic-tags",
+                  "ionic2",
+                  "tags-input",
+                  "tagsinput"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -202,12 +298,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic2 Side menu + Tabs",
+                "homepage": "https://blog.khophi.co/ionic-2-side-menu-tabs/",
                 "id": 58328106,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-01-27T13:13:54Z",
+                "open_issues": 0,
                 "owner": "seanmavley",
                 "repo": "ionic2-sidemenu-tabs",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "ionic-framework",
+                  "ionic2",
+                  "sidemenu",
+                  "tabs"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -218,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 68972724,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2016-11-28T23:38:07Z",
+                "open_issues": 0,
                 "owner": "rohitg7",
                 "repo": "ionic2-form-builder",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -236,12 +347,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Input mask for React, Angular, Ember, Vue, & plain JavaScript",
+                    "homepage": "https://text-mask.github.io/text-mask/",
                     "id": 50213667,
                     "language": "JavaScript",
+                    "license": "Unlicense",
                     "last_commit": "2025-05-26T18:32:18Z",
+                    "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8214
+                    "stars": 8214,
+                    "topics": [
+                      "angular",
+                      "ember",
+                      "input-mask",
+                      "inputmask",
+                      "react",
+                      "text-formatting",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.215Z"
                 },
@@ -252,12 +376,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":star: Angular star rating bar. Built for Ionic 2+.",
+                    "homepage": null,
                     "id": 69420730,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-06T18:25:37Z",
+                    "open_issues": 14,
                     "owner": "andrucz",
                     "repo": "ionic2-rating",
-                    "stars": 176
+                    "stars": 176,
+                    "topics": [
+                      "angular2",
+                      "angular4",
+                      "angular4-component",
+                      "ionic",
+                      "ionic2",
+                      "mobile",
+                      "star-rating",
+                      "typescript",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.215Z"
                 },
@@ -273,12 +412,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A flexible calendar component for angular 20.2+ that can display events on a month, week or day view.",
+                        "homepage": "https://mattlewis92.github.io/angular-calendar/",
                         "id": 57139102,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2026-04-08T15:19:00Z",
+                        "open_issues": 96,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2822
+                        "stars": 2822,
+                        "topics": [
+                          "angular",
+                          "calendar",
+                          "calendar-component"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     },
@@ -289,12 +437,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A calendar component based on Ionic framework",
+                        "homepage": "https://ionic-calendar-demo.stackblitz.io",
                         "id": 63908983,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2026-05-31T15:21:43Z",
+                        "open_issues": 116,
                         "owner": "twinssbc",
                         "repo": "Ionic2-Calendar",
-                        "stars": 389
+                        "stars": 389,
+                        "topics": [
+                          "calendar",
+                          "ionic",
+                          "ionic2",
+                          "ionic3",
+                          "ionic4",
+                          "ionic5",
+                          "ionic6",
+                          "ionic7",
+                          "ionic8",
+                          "swiper"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     },
@@ -305,12 +469,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 73530870,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2018-05-26T15:34:53Z",
+                        "open_issues": 47,
                         "owner": "nekken",
                         "repo": "ng2-fullcalendar",
-                        "stars": 94
+                        "stars": 94,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     },
@@ -321,12 +490,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 81155202,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2017-10-12T12:43:25Z",
+                        "open_issues": 0,
                         "owner": "alexandretok",
                         "repo": "easy-ionic2-calendar",
-                        "stars": 16
+                        "stars": 16,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     },
@@ -337,12 +511,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Calendar directive for Ionic 2",
+                        "homepage": null,
                         "id": 64175125,
                         "language": "TypeScript",
+                        "license": null,
                         "last_commit": "2017-09-22T02:48:21Z",
+                        "open_issues": 2,
                         "owner": "redpandatronicsuk",
                         "repo": "ionic2calendar",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     }
@@ -360,12 +539,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "📅 A date picker components for ionic2 ／ionic3 / ionic4",
+                        "homepage": "https://hsuanxyz.github.io/demo/ion2-calendar/",
                         "id": 77778527,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2022-12-08T22:14:55Z",
+                        "open_issues": 167,
                         "owner": "hsuanxyz",
                         "repo": "ion2-calendar",
-                        "stars": 548
+                        "stars": 548,
+                        "topics": [
+                          "angular",
+                          "angular2",
+                          "angular4",
+                          "calendar",
+                          "components",
+                          "datepicker",
+                          "daterange",
+                          "daterangepicker",
+                          "ionic",
+                          "ionic2",
+                          "ionic3",
+                          "ionic4",
+                          "range"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     },
@@ -376,12 +574,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Date picker for Ionic",
+                        "homepage": null,
                         "id": 70128902,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2022-12-07T23:24:11Z",
+                        "open_issues": 32,
                         "owner": "misha130",
                         "repo": "ion-datepicker",
-                        "stars": 74
+                        "stars": 74,
+                        "topics": [
+                          "angular",
+                          "datepicker-component",
+                          "ionic2",
+                          "ionic3"
+                        ]
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     },
@@ -392,12 +600,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 72607578,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2019-11-02T16:34:52Z",
+                        "open_issues": 3,
                         "owner": "rajeshwarpatlolla",
                         "repo": "ionic2-datepicker",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
                     }
@@ -422,12 +635,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨  A feature-rich yet lightweight data-table crafted for Angular",
+                "homepage": "http://swimlane.github.io/ngx-datatable/",
                 "id": 60117259,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T04:04:02Z",
+                "open_issues": 917,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4669
+                "stars": 4669,
+                "topics": [
+                  "angular",
+                  "angular-components",
+                  "angular2",
+                  "angular4",
+                  "datagrid",
+                  "datatable",
+                  "grid",
+                  "hacktoberfest",
+                  "table",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -438,12 +667,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular Smart Data Table component",
+                "homepage": "https://akveo.github.io/ng2-smart-table/",
                 "id": 65373403,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-12T16:52:31Z",
+                "open_issues": 956,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1619
+                "stars": 1619,
+                "topics": [
+                  "angular-2",
+                  "angular2",
+                  "angular4",
+                  "aot",
+                  "aot-compatible",
+                  "aot-compilation",
+                  "editable-table",
+                  "filter",
+                  "grid-component",
+                  "ng2",
+                  "smart-table",
+                  "smarttable",
+                  "sort",
+                  "table"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -454,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple table extension with sorting, filtering, paging... for Angular2 apps",
+                "homepage": "http://valor-software.github.io/ng2-table/",
                 "id": 41477999,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-10-26T15:57:10Z",
+                "open_issues": 319,
                 "owner": "valor-software",
                 "repo": "ng2-table",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -477,12 +731,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼 A small library for lazy loading images for Angular apps with zero dependencies ",
+                "homepage": "https://naughty-bose-ec1cfc.netlify.com",
                 "id": 52146170,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:27:35Z",
+                "open_issues": 36,
                 "owner": "tjoskar",
                 "repo": "ng-lazyload-image",
-                "stars": 751
+                "stars": 751,
+                "topics": [
+                  "angular",
+                  "lazy-loading"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -493,12 +755,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼 A small library for lazy loading images for Angular apps with zero dependencies ",
+                "homepage": "https://naughty-bose-ec1cfc.netlify.com",
                 "id": 52146170,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:27:35Z",
+                "open_issues": 36,
                 "owner": "tjoskar",
                 "repo": "ng-lazyload-image",
-                "stars": 751
+                "stars": 751,
+                "topics": [
+                  "angular",
+                  "lazy-loading"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -509,12 +779,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic 2+ Component that loads images in a background thread and caches them for later use",
+                "homepage": null,
                 "id": 70659082,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T12:31:22Z",
+                "open_issues": 79,
                 "owner": "zyra",
                 "repo": "ionic-image-loader",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "ionic"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -525,12 +802,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic 2+ component providing a Twitter inspired experience to visualize pictures.",
+                "homepage": null,
                 "id": 65241910,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-10-10T21:05:45Z",
+                "open_issues": 31,
                 "owner": "Riron",
                 "repo": "ionic-img-viewer",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "angular",
+                  "cordova",
+                  "ionic-framework",
+                  "ionic2",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -541,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Angular2 Component for szimek / signature_pad",
+                "homepage": null,
                 "id": 50682569,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-12T06:57:01Z",
+                "open_issues": 17,
                 "owner": "wulfsolter",
                 "repo": "angular2-signaturepad",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -557,12 +850,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic Gallery Modal (to show all your photos)",
+                "homepage": null,
                 "id": 78153445,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-02-06T19:38:02Z",
+                "open_issues": 28,
                 "owner": "nikini",
                 "repo": "ionic-gallery-modal",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "gallery",
+                  "ionic2",
+                  "ionic3"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -573,12 +875,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼 Load placeholder image on image error, Angular 5+",
+                "homepage": "https://vadimdez.github.io/ngx-img-fallback/",
                 "id": 60298404,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-05-20T16:32:10Z",
+                "open_issues": 5,
                 "owner": "VadimDez",
                 "repo": "ngx-img-fallback",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "angular",
+                  "angular5",
+                  "fallback",
+                  "image",
+                  "image-fallback",
+                  "placeholder-image"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -589,12 +903,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Angular2 Image Zoom Directive",
+                "homepage": null,
                 "id": 61401975,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-10-03T19:45:18Z",
+                "open_issues": 15,
                 "owner": "brtnshrdr",
                 "repo": "angular2-image-zoom",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -605,12 +924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Facebook gallery photo picker for Ionic 2",
+                "homepage": null,
                 "id": 76408419,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2016-12-15T23:05:51Z",
+                "open_issues": 0,
                 "owner": "skyfloyd",
                 "repo": "ionic2-fb-gallery",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -628,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful charts for Angular based on Chart.js",
+                "homepage": "http://valor-software.github.io/ng2-charts/",
                 "id": 41480724,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-05T12:38:00Z",
+                "open_issues": 56,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2400
+                "stars": 2400,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -649,12 +978,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A D3 service for use with Angular.",
+                    "homepage": null,
                     "id": 66854079,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2020-03-26T02:21:29Z",
+                    "open_issues": 15,
                     "owner": "tomwanzek",
                     "repo": "d3-ng2-service",
-                    "stars": 204
+                    "stars": 204,
+                    "topics": [
+                      "angular",
+                      "d3",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:57:26.215Z"
                 },
@@ -665,12 +1003,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This project shows how to integrate D3.js with Angular 2.",
+                    "homepage": null,
                     "id": 70255085,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-02T00:48:09Z",
+                    "open_issues": 14,
                     "owner": "datencia",
                     "repo": "d3js-angular-examples",
-                    "stars": 199
+                    "stars": 199,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.215Z"
                 }
@@ -690,12 +1033,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An audio player for Ionic 3 and Angular 4. Works with HTML 5 audio or native audio using Cordova Media plugin.",
+                "homepage": "http://arielfaur.github.io/ionic-audio/2.0/index.html",
                 "id": 34830892,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-03-12T18:41:35Z",
+                "open_issues": 68,
                 "owner": "arielfaur",
                 "repo": "ionic-audio",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "angular2",
+                  "angular4",
+                  "angular5",
+                  "audio",
+                  "ionic-framework",
+                  "ionic2",
+                  "ionic3",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -706,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":camera: :video_camera: :scissors: An Ionic 2 app that shows how to use the cordova-plugin-video-editor and cordova-plugin-instagram-assets-picker plugins.",
+                "homepage": null,
                 "id": 53471694,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-26T16:46:06Z",
+                "open_issues": 5,
                 "owner": "rossmartin",
                 "repo": "video-editor-ionic2",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -729,12 +1091,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A digital keyboard plugin to use in Ionic 2 applications.",
+                "homepage": null,
                 "id": 81668625,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-16T00:46:19Z",
+                "open_issues": 20,
                 "owner": "skol-pro",
                 "repo": "ion-digit-keyboard-v2",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "angular",
+                  "angular2",
+                  "angularjs",
+                  "ionic",
+                  "ionic2",
+                  "plugin",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -745,12 +1120,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔒 A pincode input for ionic2",
+                "homepage": "https://stackblitz.com/edit/ionic2-pincode-input",
                 "id": 85065586,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-05-02T10:54:04Z",
+                "open_issues": 5,
                 "owner": "hsuanxyz",
                 "repo": "ionic2-pincode-input",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "ionic2",
+                  "number-input",
+                  "pincode"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -768,12 +1152,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extended version of alert component",
+                "homepage": null,
                 "id": 82540132,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2017-03-02T09:38:28Z",
+                "open_issues": 0,
                 "owner": "hsuanxyz",
                 "repo": "ionic2-extend-alert",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "auto-cloes",
+                  "count-down",
+                  "ionic2",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -791,12 +1185,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Angular components & directives for Lightning Design System",
+                "homepage": "http://ng-lightning.github.io/ng-lightning/",
                 "id": 52876196,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-03T18:59:06Z",
+                "open_issues": 49,
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
-                "stars": 914
+                "stars": 914,
+                "topics": [
+                  "angular",
+                  "lightning",
+                  "ng-lightning",
+                  "salesforce-lightning"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -814,12 +1218,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Multi Item Picker - An Ionic Custom Multi Picker Component",
+                "homepage": "https://raychenfj.github.io/ion-multi-picker/",
                 "id": 66229637,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-02T12:31:47Z",
+                "open_issues": 26,
                 "owner": "raychenfj",
                 "repo": "ion-multi-picker",
-                "stars": 232
+                "stars": 232,
+                "topics": [
+                  "ionic",
+                  "picker"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -843,12 +1255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support for OAuth 2 and OpenId Connect (OIDC) in Angular. ",
+                "homepage": null,
                 "id": 77933597,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-05T09:19:08Z",
+                "open_issues": 307,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1979
+                "stars": 1979,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -859,12 +1276,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":key: Token based authentication service for Angular with interceptor and multi-user support. Works best with devise token auth for Rails. Example:",
+                "homepage": "https://stackblitz.com/github/neroniaky/angular-token",
                 "id": 65271879,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-22T14:49:04Z",
+                "open_issues": 49,
                 "owner": "neroniaky",
                 "repo": "angular-token",
-                "stars": 367
+                "stars": 367,
+                "topics": [
+                  "angular",
+                  "auth",
+                  "authentication",
+                  "devise",
+                  "devise-token-auth",
+                  "interceptor",
+                  "interceptors",
+                  "oauth",
+                  "rails",
+                  "signin",
+                  "token"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -875,12 +1309,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The LoginRadius Ionic library will let you integrate LoginRadius' customer identity platform with your Ionic mobile application(s).",
+                "homepage": "https://www.loginradius.com",
                 "id": 94330261,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-04-07T01:30:36Z",
+                "open_issues": 0,
                 "owner": "LoginRadius",
                 "repo": "ionic2-sdk",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "loginradius",
+                  "loginradius-sdk",
+                  "social-login"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -898,12 +1341,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular + Firebase = ❤️",
+                "homepage": "https://firebaseopensource.com/projects/angular/angularfire2",
                 "id": 49453413,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T22:37:04Z",
+                "open_issues": 196,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7804
+                "stars": 7804,
+                "topics": [
+                  "angular",
+                  "angularfire",
+                  "cloud-firestore",
+                  "cloud-functions",
+                  "firebase",
+                  "ngrx",
+                  "notifications",
+                  "offline-data",
+                  "realtime",
+                  "realtime-database",
+                  "rxjs"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -914,12 +1374,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper library for handling JWTs in Angular apps",
+                "homepage": null,
                 "id": 44948282,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:07:44Z",
+                "open_issues": 16,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2624
+                "stars": 2625,
+                "topics": [
+                  "angular",
+                  "dx-sdk",
+                  "jwt"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -930,12 +1399,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vendor-agnostic analytics for Angular2 applications.",
+                "homepage": null,
                 "id": 48817245,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-13T11:52:49Z",
+                "open_issues": 92,
                 "owner": "angulartics",
                 "repo": "angulartics2",
-                "stars": 1007
+                "stars": 1007,
+                "topics": [
+                  "analytics",
+                  "angular",
+                  "angular2",
+                  "angular4",
+                  "angular5",
+                  "angulartics",
+                  "angulartics2",
+                  "application-insights",
+                  "baidu-analytics",
+                  "facebook-pixel",
+                  "google-analytics",
+                  "google-tag-manager",
+                  "hack",
+                  "hacktoberfest",
+                  "kissmetrics",
+                  "mixpanel",
+                  "ngx",
+                  "piwik",
+                  "segmentio"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -946,12 +1440,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular TypeScript Wrapper for Facebook SDK",
+                "homepage": "http://zyra.github.io/ngx-facebook/",
                 "id": 60044804,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-06-14T11:16:06Z",
+                "open_issues": 47,
                 "owner": "zyra",
                 "repo": "ngx-facebook",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "angular2",
+                  "angular4",
+                  "facebook-sdk",
+                  "ionic2"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -962,12 +1466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro library to use the Salesforce REST APIs in JavaScript Apps",
+                "homepage": null,
                 "id": 22922346,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-01-12T20:12:03Z",
+                "open_issues": 17,
                 "owner": "ccoenraets",
                 "repo": "forcejs",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -978,12 +1487,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":video_game: Pokédex sample app developed with Ionic 2, Angular 2 and Apache Cordova. Using Pokéapi as source for data.",
+                "homepage": null,
                 "id": 67552617,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-24T23:25:06Z",
+                "open_issues": 0,
                 "owner": "loiane",
                 "repo": "ionic2-pokedex",
-                "stars": 154
+                "stars": 153,
+                "topics": [
+                  "angular2",
+                  "angular4",
+                  "ionic",
+                  "ionic2",
+                  "ionic2-pokedex",
+                  "ionic3",
+                  "poke-api"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -994,12 +1516,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular 4, Ionic 3, and AWS (Amazon) Cognito User Pools. Authentication out of the box. ",
+                "homepage": "https://medium.com/@budilov",
                 "id": 67567050,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-25T03:26:51Z",
+                "open_issues": 2,
                 "owner": "vbudilov",
                 "repo": "ionic-app-with-aws-cognito",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "amazon-cognito",
+                  "angular4",
+                  "ionic",
+                  "ionic-framework",
+                  "ionic3",
+                  "mobile",
+                  "serverless",
+                  "serverless-framework",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -1010,12 +1547,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorial: How To Use PouchDB + SQLite For Local Storage In Ionic 2",
+                "homepage": "http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/",
                 "id": 56538146,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-05-08T06:04:59Z",
+                "open_issues": 5,
                 "owner": "ashteya",
                 "repo": "ionic2-tutorial-pouchdb",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "angular",
+                  "ionic",
+                  "ionic2",
+                  "pouchdb",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -1026,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic 2 WP-API Starter App",
+                "homepage": null,
                 "id": 68734063,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-25T00:16:59Z",
+                "open_issues": 0,
                 "owner": "scottopolis",
                 "repo": "ionic2-wp-api",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -1042,12 +1595,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ionic2 sql interface for using sqlite query in browser and native. Uses sql.js in browser, and native sqlite on mobile",
+                "homepage": null,
                 "id": 70533884,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2016-11-07T01:26:59Z",
+                "open_issues": 1,
                 "owner": "seand88",
                 "repo": "ionic2-sql-interface",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "angular",
+                  "angular2",
+                  "ionic",
+                  "ionic2",
+                  "sql",
+                  "websql"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -1058,12 +1623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CodePush support in Ionic 2 applications",
+                "homepage": null,
                 "id": 66798482,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2016-08-29T03:38:44Z",
+                "open_issues": 0,
                 "owner": "ksachdeva",
                 "repo": "ionic2-code-push",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -1074,12 +1644,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compete using Microsoft Emotion API.",
+                "homepage": null,
                 "id": 80749025,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2017-10-15T17:06:51Z",
+                "open_issues": 3,
                 "owner": "nghduc97",
                 "repo": "emo-clash",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "firebase",
+                  "ionic2",
+                  "microsoft-cognitive-services",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -1097,12 +1677,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Useful pipes for Angular with no external dependencies! ",
+                "homepage": "https://danrevah.gitbooks.io/angular-pipes",
                 "id": 74707723,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-10T20:54:55Z",
+                "open_issues": 48,
                 "owner": "danrevah",
                 "repo": "ngx-pipes",
-                "stars": 1570
+                "stars": 1570,
+                "topics": [
+                  "angular",
+                  "javascript",
+                  "ng",
+                  "pipe",
+                  "pipes",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             },
@@ -1113,12 +1705,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "𝗩 Angular 5+ pipeline for array filtering.",
+                "homepage": "https://vadimdez.github.io/ngx-filter-pipe",
                 "id": 61863180,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-08T19:31:34Z",
+                "open_issues": 36,
                 "owner": "VadimDez",
                 "repo": "ngx-filter-pipe",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "angular-2",
+                  "array-filter",
+                  "filter",
+                  "filter-array",
+                  "pipe"
+                ]
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
             }
@@ -1140,12 +1743,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project full of ionic 3 components and samples - to make life easier :)",
+            "homepage": null,
             "id": 72818140,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-27T11:32:21Z",
+            "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "angular2",
+              "angular4",
+              "components",
+              "ionic",
+              "ionic2",
+              "ionic3",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1156,12 +1772,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✨ An Ionic Starter kit featuring Tests, E2E, Karma, Protractor, Jasmine, Istanbul, Gitlab CI, Automatic IPA and APK, TypeScript 2, TsLint, Codelyzer, Typedoc, Yarn, Rollup, and Webpack 2 ",
+            "homepage": null,
             "id": 69553868,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T17:42:18Z",
+            "open_issues": 21,
             "owner": "marcoturi",
             "repo": "ionic-boilerplate",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "angular",
+              "angular5",
+              "boilerplate",
+              "codelyzer",
+              "docker",
+              "gitlab-ci",
+              "headless-chrome",
+              "ionic",
+              "ionic2",
+              "ionic3",
+              "karma",
+              "protractor",
+              "rollup",
+              "typedoc",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1172,12 +1810,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":camera: Simple Ionic app using ocrad.js",
+            "homepage": "https://youtu.be/TykCiS80oZc",
             "id": 45185555,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-21T15:21:37Z",
+            "open_issues": 3,
             "owner": "matiastucci",
             "repo": "ionic-ocr-example",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "camera",
+              "ionic",
+              "ocr",
+              "ocrad"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1188,12 +1836,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "File Transfer in Ionic 3 using Ionic Native's File and Transfer modules :file_folder:",
+            "homepage": null,
             "id": 56239358,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-29T21:39:47Z",
+            "open_issues": 3,
             "owner": "dsgriffin",
             "repo": "ionic-3-file-transfer-example",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "file-transfer",
+              "ionic",
+              "ionic3",
+              "javascript",
+              "js",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1204,12 +1864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ionic 2 sample app using NFC",
+            "homepage": null,
             "id": 53404821,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-01-02T18:22:35Z",
+            "open_issues": 4,
             "owner": "RedFroggy",
             "repo": "ionic2-nfc-app",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1220,12 +1885,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mandatory Update for Ionic",
+            "homepage": null,
             "id": 80796138,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-09-04T22:56:55Z",
+            "open_issues": 9,
             "owner": "NextFaze",
             "repo": "ionic-manup",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "ionic2"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1236,12 +1908,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ionic 3 demo of how to hide the header when scrolling down and show it again when scrolling up.",
+            "homepage": null,
             "id": 82105247,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2018-08-04T18:00:10Z",
+            "open_issues": 0,
             "owner": "sebaferreras",
             "repo": "Ionic3-FullscreenContent",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "angular2",
+              "ionic2",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1252,12 +1933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A stylish Ionic 2 layout with a frosted glass effect and parallax header",
+            "homepage": null,
             "id": 77190099,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-06-19T02:44:09Z",
+            "open_issues": 0,
             "owner": "joshuamorony",
             "repo": "ionic2-card-layout",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         }
@@ -1274,12 +1960,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "App Build Scripts for Ionic Projects",
+            "homepage": "http://ionicframework.com/",
             "id": 67763937,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-04-30T19:55:26Z",
+            "open_issues": 347,
             "owner": "ionic-team",
             "repo": "ionic-app-scripts",
-            "stars": 603
+            "stars": 603,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         }
@@ -1296,12 +1987,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular 2+ bindings for Redux",
+            "homepage": null,
             "id": 40690081,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-05-05T16:20:29Z",
+            "open_issues": 67,
             "owner": "angular-redux",
             "repo": "store",
-            "stars": 1330
+            "stars": 1330,
+            "topics": [
+              "angular",
+              "ng2-redux",
+              "redux",
+              "redux-store"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         }
@@ -1318,12 +2019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A conference app built with Ionic to demonstrate Ionic",
+            "homepage": "https://ionic-conference-app-eta.vercel.app",
             "id": 43385504,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:30:48Z",
+            "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3593
+            "stars": 3593,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1334,12 +2040,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project full of ionic 3 components and samples - to make life easier :)",
+            "homepage": null,
             "id": 72818140,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-27T11:32:21Z",
+            "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "angular2",
+              "angular4",
+              "components",
+              "ionic",
+              "ionic2",
+              "ionic3",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1350,12 +2069,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " ionic3 chat example",
+            "homepage": "https://stackblitz.com/edit/ionic3-chat",
             "id": 86984288,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-23T19:28:21Z",
+            "open_issues": 25,
             "owner": "hsuanxyz",
             "repo": "ionic3-chat",
-            "stars": 460
+            "stars": 460,
+            "topics": [
+              "chat",
+              "components",
+              "emojis",
+              "example",
+              "ionic",
+              "ionic2",
+              "ionic3"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1366,12 +2098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Application with Ionic 2 and Angular 2",
+            "homepage": null,
             "id": 50440802,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-15T05:30:34Z",
+            "open_issues": 8,
             "owner": "ccoenraets",
             "repo": "ionic2-realty",
-            "stars": 254
+            "stars": 254,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1382,12 +2119,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download Latest Ionic v3 Weather App ->",
+            "homepage": "https://aggarwalankush.github.io/ionic-mosum/",
             "id": 73542725,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-07-09T21:06:14Z",
+            "open_issues": 5,
             "owner": "aggarwalankush",
             "repo": "ionic-mosum",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "android",
+              "angular",
+              "ionic",
+              "ios",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1398,12 +2146,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ionic Push Notifications Base App for iOS and Android",
+            "homepage": "https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59",
             "id": 63896358,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-06-30T04:20:00Z",
+            "open_issues": 7,
             "owner": "aggarwalankush",
             "repo": "ionic-push-base",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "android",
+              "angular",
+              "ionic",
+              "ios",
+              "push-notifications"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1414,12 +2173,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ionic 2 Sample App",
+            "homepage": null,
             "id": 75440292,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-12-11T05:48:18Z",
+            "open_issues": 2,
             "owner": "smartapant",
             "repo": "ionic2-reddit-reader",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "angular",
+              "angular2",
+              "cordova",
+              "ionic",
+              "ionic2",
+              "mobile",
+              "reddit",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1430,12 +2203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 54067837,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-31T16:44:34Z",
+            "open_issues": 5,
             "owner": "srehanuddin",
             "repo": "Ionic2-ResturantApp",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1446,12 +2224,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ionic2 Geofencing Sample Project",
+            "homepage": "https://ionic2-geofence.surge.sh/",
             "id": 51474913,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-03-21T21:41:10Z",
+            "open_issues": 5,
             "owner": "tsubik",
             "repo": "ionic2-geofence",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "angular2",
+              "geofencing",
+              "ionic-framework",
+              "ionic2"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1462,12 +2250,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mobile app to see Myki account details for iOS & Android",
+            "homepage": null,
             "id": 79219892,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-05-07T00:51:43Z",
+            "open_issues": 13,
             "owner": "longzheng",
             "repo": "mypal-ionic",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "android",
+              "ionic2",
+              "ios",
+              "melbourne",
+              "myki",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1478,12 +2278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hybrid mobile app for listing and playing your own YouTube videos inside your YouTube Channel. Build with Ionic 2, Angular 2 and YouTube API V3.",
+            "homepage": null,
             "id": 62464912,
             "language": "CSS",
+            "license": null,
             "last_commit": "2016-12-01T05:03:15Z",
+            "open_issues": 6,
             "owner": "hughred22",
             "repo": "Ionic2-Angular2-YouTube-Channel-App",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1494,12 +2299,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ionic2 indexed scroll bar DEMO",
+            "homepage": null,
             "id": 83405652,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2017-08-28T09:13:08Z",
+            "open_issues": 2,
             "owner": "hsuanxyz",
             "repo": "ionic2-indexed-scroll",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "demo",
+              "fast-scroll",
+              "indexed-scroll",
+              "ionic",
+              "scrollbar"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1510,12 +2326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 1: Firebase Chat Application with Ionic 2",
+            "homepage": null,
             "id": 67054274,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-03-13T12:48:16Z",
+            "open_issues": 2,
             "owner": "ionic2blueprints",
             "repo": "firebase-chat",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1526,12 +2347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 6: Media Player with Ionic 2",
+            "homepage": null,
             "id": 67058552,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-04-03T09:44:09Z",
+            "open_issues": 1,
             "owner": "ionic2blueprints",
             "repo": "media-player",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1542,12 +2368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 7: Social app with Firebase and Ionic 2",
+            "homepage": null,
             "id": 67058712,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2016-09-28T10:24:19Z",
+            "open_issues": 0,
             "owner": "ionic2blueprints",
             "repo": "social-app",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1558,12 +2389,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile Heads-Up-Display - read speed/gforce/location from your mobile and display on your windscreen",
+            "homepage": null,
             "id": 55811926,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-02-18T12:41:03Z",
+            "open_issues": 0,
             "owner": "paulcockrell",
             "repo": "mHUD",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "angular2",
+              "car",
+              "hud",
+              "ionic2",
+              "phone",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1574,12 +2417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 2: E-commerce App with MarketCloud and Ionic 2",
+            "homepage": null,
             "id": 67056376,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-10-10T20:18:33Z",
+            "open_issues": 5,
             "owner": "ionic2blueprints",
             "repo": "ionic2-marketcloud",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1590,12 +2438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 5: Wordpress Client App with Ionic 2",
+            "homepage": null,
             "id": 67057964,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2016-08-31T17:21:25Z",
+            "open_issues": 1,
             "owner": "ionic2blueprints",
             "repo": "ionic2-wp-client",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1606,12 +2459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 4: Stock Tracking app with Ionic 2 and Yahoo API",
+            "homepage": null,
             "id": 67057858,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-10-10T20:18:27Z",
+            "open_issues": 2,
             "owner": "ionic2blueprints",
             "repo": "ionic2-stockmarket",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1622,12 +2480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chapter 3: Conference App based on Lanyrd JSON Export",
+            "homepage": null,
             "id": 67057097,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2016-08-31T17:03:17Z",
+            "open_issues": 0,
             "owner": "ionic2blueprints",
             "repo": "conference-app",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1638,12 +2501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple app using the ionic2 framework and freshly pressed api",
+            "homepage": null,
             "id": 52735866,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-28T18:31:03Z",
+            "open_issues": 0,
             "owner": "rajayogan",
             "repo": "ionic2-freshlypressed",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         },
@@ -1654,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official website of app-evangelist",
+            "homepage": "http://www.app-evangelist.com",
             "id": 100773706,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2017-08-20T17:22:23Z",
+            "open_issues": 0,
             "owner": "fishme",
             "repo": "app-evangelist.com",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
         }
@@ -1668,15 +2541,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:57:26.215Z",
+    "last_updated": "2026-08-29T04:50:21.452Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Should help you to get awesome components and plugins for Ionic2",
+      "homepage": null,
       "id": 82455196,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2021-11-08T07:07:59Z",
+      "open_issues": 1,
       "owner": "fishme",
       "repo": "awesome-ionic2-components",
-      "stars": 203
+      "stars": 203,
+      "topics": [
+        "angular-components",
+        "angular2",
+        "awesome-list",
+        "cordova",
+        "ionic-apps",
+        "ionic-cordova",
+        "ionic-framework",
+        "ionic-plugin",
+        "ionic2",
+        "ionic2-components"
+      ]
     },
     "original_repository_sha": "5147371e1e1c89e5451236abcef21e3068f1f314",
     "enhanced_repository": "enhansome/enhansome-ionic2-components",
