@@ -859,7 +859,7 @@
                 "open_issues": 28,
                 "owner": "nikini",
                 "repo": "ionic-gallery-modal",
-                "stars": 164,
+                "stars": 163,
                 "topics": [
                   "gallery",
                   "ionic2",
@@ -2028,7 +2028,7 @@
             "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3593,
+            "stars": 3594,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:22:31.056Z",
+    "last_updated": "2026-08-30T10:08:37.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

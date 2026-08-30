@@ -63,7 +63,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Image Loader](https://github.com/zyramedia/ionic-image-loader) ⭐ 431 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-05 ![](ionic.png)
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer) ⭐ 279 | 🐛 31 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Signatur](https://github.com/wulfsolter/angular2-signaturepad) ⚠️ Archived ![](angular.png) works perfect with ![](ionic.png)
-* [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ⭐ 164 | 🐛 28 | 🌐 TypeScript | 📅 2019-02-06 ![](ionic.png)
+* [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ⭐ 163 | 🐛 28 | 🌐 TypeScript | 📅 2019-02-06 ![](ionic.png)
 * [Image Fallback](https://github.com/VadimDez/ng2-img-fallback) ⭐ 81 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-20 ![](angular.png)
 * [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) ⭐ 22 | 🐛 15 | 🌐 TypeScript | 📅 2018-10-03 ![](angular.png)
 * [Facebook Gallery](https://github.com/skyfloyd/ionic2-fb-gallery) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2016-12-15 ![](ionic.png)
@@ -152,7 +152,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,593 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-25 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,594 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-25 ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,666 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 460 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 254 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
