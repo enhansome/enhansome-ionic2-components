@@ -148,7 +148,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Code Stuff
 
-* [Redux](https://github.com/angular-redux/store) ⭐ 1,330 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
+* [Redux](https://github.com/angular-redux/store) ⭐ 1,329 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
 
 ## Projects
 
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

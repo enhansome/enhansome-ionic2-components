@@ -1996,7 +1996,7 @@
             "open_issues": 67,
             "owner": "angular-redux",
             "repo": "store",
-            "stars": 1330,
+            "stars": 1329,
             "topics": [
               "angular",
               "ng2-redux",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:08:37.610Z",
+    "last_updated": "2026-08-31T11:10:24.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
