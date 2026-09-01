@@ -1264,7 +1264,7 @@
                 "open_issues": 307,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1979,
+                "stars": 1980,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-21T22:37:04Z",
-                "open_issues": 196,
+                "open_issues": 205,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7804,
@@ -1379,8 +1379,8 @@
                 "id": 44948282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T00:07:44Z",
-                "open_issues": 16,
+                "last_commit": "2026-08-31T22:14:37Z",
+                "open_issues": 17,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
                 "stars": 2625,
@@ -1752,7 +1752,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1666,
+            "stars": 1665,
             "topics": [
               "angular2",
               "angular4",
@@ -2024,7 +2024,7 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T21:30:48Z",
+            "last_commit": "2026-08-31T15:27:39Z",
             "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
@@ -2049,7 +2049,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1666,
+            "stars": 1665,
             "topics": [
               "angular2",
               "angular4",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:10:24.302Z",
+    "last_updated": "2026-09-01T09:37:04.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
