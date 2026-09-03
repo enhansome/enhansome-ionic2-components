@@ -29,7 +29,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Form / Input
 
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ⭐ 1,307 | 🐛 128 | 🌐 TypeScript | 📅 2024-02-06 ![](angular.png)
-* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 483 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
+* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 483 | 🐛 135 | 🌐 TypeScript | 📅 2026-09-02 ![](angular.png)
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ⭐ 147 | 🐛 33 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Tags Input](https://github.com/HsuanXyz/ionic-tags-input) ⭐ 69 | 🐛 18 | 🌐 TypeScript | 📅 2020-03-11 ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27 ![](ionic.png)
@@ -110,8 +110,8 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,804 | 🐛 200 | 🌐 TypeScript | 📅 2026-09-02 ![](angular.png)
-* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,625 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-31 ![](angular.png) ![](ionic.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,804 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-02 ![](angular.png)
+* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,625 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-03 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,007 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ⭐ 175 | 🐛 17 | 🌐 JavaScript | 📅 2018-01-12 ![](ionic.png) ![](angular.png)
@@ -132,7 +132,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Boilerplate/Demo Apps
 
-* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,665 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ⚠️ Archived ![](ionic.png)
 * [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,518 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ⚠️ Archived ![](ionic.png)
@@ -148,12 +148,12 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Code Stuff
 
-* [Redux](https://github.com/angular-redux/store) ⭐ 1,329 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
+* [Redux](https://github.com/angular-redux/store) ⭐ 1,328 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,593 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 ![](ionic.png)
-* [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,665 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,593 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-02 ![](ionic.png)
+* [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 460 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 254 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
 * [Weather app](https://github.com/aggarwalankush/ionic2-mosum) ⭐ 243 | 🐛 5 | 🌐 TypeScript | 📅 2021-07-09 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
