@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4661,
+                "stars": 4662,
                 "topics": [
                   "angular",
                   "i18n",
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8214,
+                    "stars": 8212,
                     "topics": [
                       "angular",
                       "ember",
@@ -644,7 +644,7 @@
                 "open_issues": 917,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4669,
+                "stars": 4668,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -1264,7 +1264,7 @@
                 "open_issues": 307,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1980,
+                "stars": 1981,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 198,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7804,
+                "stars": 7805,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1408,7 +1408,7 @@
                 "open_issues": 92,
                 "owner": "angulartics",
                 "repo": "angulartics2",
-                "stars": 1007,
+                "stars": 1006,
                 "topics": [
                   "analytics",
                   "angular",
@@ -1714,7 +1714,7 @@
                 "open_issues": 36,
                 "owner": "VadimDez",
                 "repo": "ngx-filter-pipe",
-                "stars": 140,
+                "stars": 139,
                 "topics": [
                   "angular-2",
                   "array-filter",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:07:30.853Z",
+    "last_updated": "2026-09-05T08:39:31.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
