@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8212,
+                    "stars": 8211,
                     "topics": [
                       "angular",
                       "ember",
@@ -418,7 +418,7 @@
                         "language": "TypeScript",
                         "license": "MIT",
                         "last_commit": "2026-04-08T15:19:00Z",
-                        "open_issues": 96,
+                        "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
                         "stars": 2822,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:39:31.703Z",
+    "last_updated": "2026-09-06T08:58:26.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
