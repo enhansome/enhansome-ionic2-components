@@ -17,11 +17,11 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-24T05:57:57Z",
+                "last_commit": "2026-09-07T06:01:08Z",
                 "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4662,
+                "stars": 4661,
                 "topics": [
                   "angular",
                   "i18n",
@@ -230,8 +230,8 @@
                 "id": 60182693,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T22:19:41Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-07T07:17:49Z",
+                "open_issues": 136,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
                 "stars": 483,
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8211,
+                    "stars": 8209,
                     "topics": [
                       "angular",
                       "ember",
@@ -421,7 +421,7 @@
                         "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2822,
+                        "stars": 2821,
                         "topics": [
                           "angular",
                           "calendar",
@@ -1383,7 +1383,7 @@
                 "open_issues": 19,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2624,
+                "stars": 2623,
                 "topics": [
                   "angular",
                   "dx-sdk",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:58:26.184Z",
+    "last_updated": "2026-09-07T09:46:50.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
