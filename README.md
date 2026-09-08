@@ -15,7 +15,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Localization
 
-* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,661 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-07 ![](angular.png)
+* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,663 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-07 ![](angular.png)
 * [angular-I10n](https://github.com/robisim74/angular-l10n) ⭐ 374 | 🐛 2 | 🌐 TypeScript | 📅 2025-06-18 ![](angular.png)
 
 ### Menu, Tabs
@@ -37,7 +37,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,209 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,208 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
   * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,821 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
@@ -103,7 +103,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Authentication
 
-* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,981 | 🐛 307 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
+* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,982 | 🐛 307 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
 * [Auth with Token](https://github.com/neroniaky/angular2-token) ⭐ 367 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 ![](ionic.png) ![](angular.png)
 * [Auth with ionic2 SDK](https://github.com/LoginRadius/ionic2-sdk) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-07 ![](ionic.png)
 * [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
@@ -152,7 +152,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,593 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-03 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,593 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-07 ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 460 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 254 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
