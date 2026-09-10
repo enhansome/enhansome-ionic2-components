@@ -29,7 +29,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Form / Input
 
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ⭐ 1,307 | 🐛 128 | 🌐 TypeScript | 📅 2024-02-06 ![](angular.png)
-* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 483 | 🐛 136 | 🌐 TypeScript | 📅 2026-09-07 ![](angular.png)
+* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 483 | 🐛 136 | 🌐 TypeScript | 📅 2026-09-09 ![](angular.png)
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ⭐ 147 | 🐛 32 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Tags Input](https://github.com/HsuanXyz/ionic-tags-input) ⭐ 69 | 🐛 18 | 🌐 TypeScript | 📅 2020-03-11 ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27 ![](ionic.png)
@@ -111,7 +111,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Others
 
 * [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,805 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-02 ![](angular.png)
-* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,623 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-03 ![](angular.png) ![](ionic.png)
+* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,623 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-10 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,006 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ⭐ 175 | 🐛 17 | 🌐 JavaScript | 📅 2018-01-12 ![](ionic.png) ![](angular.png)
@@ -127,7 +127,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Pipe
 
-* [Pipe Collection (around 20 pipes for strings etc)](https://github.com/danrevah/ngx-pipes) ⭐ 1,570 | 🐛 48 | 🌐 TypeScript | 📅 2024-01-10 ![](angular.png)
+* [Pipe Collection (around 20 pipes for strings etc)](https://github.com/danrevah/ngx-pipes) ⭐ 1,571 | 🐛 48 | 🌐 TypeScript | 📅 2024-01-10 ![](angular.png)
 * [Filtering Array](https://github.com/VadimDez/ng2-filter-pipe) ⭐ 139 | 🐛 36 | 🌐 TypeScript | 📅 2024-09-08 ![](angular.png)
 
 ## Boilerplate/Demo Apps
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

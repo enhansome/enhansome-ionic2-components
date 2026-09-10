@@ -230,7 +230,7 @@
                 "id": 60182693,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T07:17:49Z",
+                "last_commit": "2026-09-09T20:56:31Z",
                 "open_issues": 136,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
@@ -1379,8 +1379,8 @@
                 "id": 44948282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:13:31Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-10T02:52:48Z",
+                "open_issues": 20,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
                 "stars": 2623,
@@ -1686,7 +1686,7 @@
                 "open_issues": 48,
                 "owner": "danrevah",
                 "repo": "ngx-pipes",
-                "stars": 1570,
+                "stars": 1571,
                 "topics": [
                   "angular",
                   "javascript",
@@ -1969,7 +1969,7 @@
             "open_issues": 347,
             "owner": "ionic-team",
             "repo": "ionic-app-scripts",
-            "stars": 603,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:14:59.872Z",
+    "last_updated": "2026-09-10T09:13:50.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
