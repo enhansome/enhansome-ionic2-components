@@ -230,8 +230,8 @@
                 "id": 60182693,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T20:56:31Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-11T08:22:18Z",
+                "open_issues": 138,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
                 "stars": 483,
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8206,
+                    "stars": 8205,
                     "topics": [
                       "angular",
                       "ember",
@@ -499,7 +499,7 @@
                         "open_issues": 0,
                         "owner": "alexandretok",
                         "repo": "easy-ionic2-calendar",
-                        "stars": 16,
+                        "stars": 15,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 199,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7805,
+                "stars": 7804,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:13:50.064Z",
+    "last_updated": "2026-09-11T09:11:18.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
