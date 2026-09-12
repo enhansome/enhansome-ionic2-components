@@ -673,7 +673,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2024-08-12T16:52:31Z",
-                "open_issues": 956,
+                "open_issues": 955,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
                 "stars": 1619,
@@ -784,8 +784,8 @@
                 "id": 70659082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-05T12:31:22Z",
-                "open_issues": 79,
+                "last_commit": "2026-09-12T04:21:24Z",
+                "open_issues": 80,
                 "owner": "zyra",
                 "repo": "ionic-image-loader",
                 "stars": 431,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:11:18.221Z",
+    "last_updated": "2026-09-12T08:52:57.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

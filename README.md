@@ -53,14 +53,14 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Lists/Table
 
 * [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,668 | 🐛 917 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
-* [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,619 | 🐛 956 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
+* [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,619 | 🐛 955 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 544 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 ![](angular.png)
 
 ### Images
 
 * [Lazy Load](https://github.com/tjoskar/ng2-lazyload-image) ⭐ 751 | 🐛 36 | 🌐 TypeScript | 📅 2023-03-04 ![](ionic.png) ![](angular.png)
 * [Lazy image loader](https://github.com/tjoskar/ng-lazyload-image) ⭐ 751 | 🐛 36 | 🌐 TypeScript | 📅 2023-03-04 ![](angular.png)
-* [Image Loader](https://github.com/zyramedia/ionic-image-loader) ⭐ 431 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-05 ![](ionic.png)
+* [Image Loader](https://github.com/zyramedia/ionic-image-loader) ⭐ 431 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-12 ![](ionic.png)
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer) ⭐ 279 | 🐛 31 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Signatur](https://github.com/wulfsolter/angular2-signaturepad) ⚠️ Archived ![](angular.png) works perfect with ![](ionic.png)
 * [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ⭐ 163 | 🐛 28 | 🌐 TypeScript | 📅 2019-02-06 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
