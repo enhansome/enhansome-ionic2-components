@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4662,
+                "stars": 4661,
                 "topics": [
                   "angular",
                   "i18n",
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8205,
+                    "stars": 8206,
                     "topics": [
                       "angular",
                       "ember",
@@ -1264,7 +1264,7 @@
                 "open_issues": 307,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1982,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 199,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7804,
+                "stars": 7803,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2128,7 +2128,7 @@
             "open_issues": 5,
             "owner": "aggarwalankush",
             "repo": "ionic-mosum",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "android",
               "angular",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:52:57.160Z",
+    "last_updated": "2026-09-13T09:47:18.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
