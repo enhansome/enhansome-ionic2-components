@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4661,
+                "stars": 4662,
                 "topics": [
                   "angular",
                   "i18n",
@@ -230,7 +230,7 @@
                 "id": 60182693,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T08:22:18Z",
+                "last_commit": "2026-09-13T20:05:42Z",
                 "open_issues": 138,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
@@ -676,7 +676,7 @@
                 "open_issues": 955,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1619,
+                "stars": 1618,
                 "topics": [
                   "angular-2",
                   "angular2",
@@ -1264,7 +1264,7 @@
                 "open_issues": 307,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1983,
+                "stars": 1984,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:47:18.458Z",
+    "last_updated": "2026-09-14T10:08:52.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
