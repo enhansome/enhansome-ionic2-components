@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8206,
+                    "stars": 8205,
                     "topics": [
                       "angular",
                       "ember",
@@ -1408,7 +1408,7 @@
                 "open_issues": 92,
                 "owner": "angulartics",
                 "repo": "angulartics2",
-                "stars": 1006,
+                "stars": 1005,
                 "topics": [
                   "analytics",
                   "angular",
@@ -2028,7 +2028,7 @@
             "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3593,
+            "stars": 3592,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:38:28.863Z",
+    "last_updated": "2026-09-16T09:33:13.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
