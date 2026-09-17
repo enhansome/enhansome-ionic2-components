@@ -421,7 +421,7 @@
                         "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2821,
+                        "stars": 2818,
                         "topics": [
                           "angular",
                           "calendar",
@@ -676,7 +676,7 @@
                 "open_issues": 955,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": [
                   "angular-2",
                   "angular2",
@@ -957,11 +957,11 @@
                 "id": 41480724,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-03-05T12:38:00Z",
-                "open_issues": 56,
+                "last_commit": "2026-09-16T12:35:12Z",
+                "open_issues": 57,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2400,
+                "stars": 2401,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2028,7 +2028,7 @@
             "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3592,
+            "stars": 3590,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:33:13.490Z",
+    "last_updated": "2026-09-17T09:41:07.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
