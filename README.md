@@ -29,7 +29,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Form / Input
 
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ⭐ 1,307 | 🐛 128 | 🌐 TypeScript | 📅 2024-02-06 ![](angular.png)
-* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 483 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-13 ![](angular.png)
+* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 482 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-13 ![](angular.png)
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ⭐ 147 | 🐛 32 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Tags Input](https://github.com/HsuanXyz/ionic-tags-input) ⭐ 69 | 🐛 18 | 🌐 TypeScript | 📅 2020-03-11 ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27 ![](ionic.png)
@@ -53,7 +53,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Lists/Table
 
 * [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,668 | 🐛 917 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
-* [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,617 | 🐛 955 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
+* [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,617 | 🐛 954 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 544 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 ![](angular.png)
 
 ### Images
@@ -110,7 +110,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,803 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-02 ![](angular.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,802 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-02 ![](angular.png)
 * [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,623 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-10 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,005 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
@@ -148,7 +148,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Code Stuff
 
-* [Redux](https://github.com/angular-redux/store) ⭐ 1,328 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
+* [Redux](https://github.com/angular-redux/store) ⭐ 1,327 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
 
 ## Projects
 
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
