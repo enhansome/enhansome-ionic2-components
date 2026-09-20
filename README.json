@@ -21,7 +21,7 @@
                 "open_issues": 97,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4662,
+                "stars": 4661,
                 "topics": [
                   "angular",
                   "i18n",
@@ -421,7 +421,7 @@
                         "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2818,
+                        "stars": 2817,
                         "topics": [
                           "angular",
                           "calendar",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:00:53.462Z",
+    "last_updated": "2026-09-20T09:28:58.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
