@@ -15,7 +15,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Localization
 
-* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,661 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-07 ![](angular.png)
+* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,661 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-07 ![](angular.png)
 * [angular-I10n](https://github.com/robisim74/angular-l10n) ⭐ 374 | 🐛 2 | 🌐 TypeScript | 📅 2025-06-18 ![](angular.png)
 
 ### Menu, Tabs
@@ -152,7 +152,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,590 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,589 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-08 ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 460 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 254 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
