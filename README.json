@@ -21,7 +21,7 @@
                 "open_issues": 64,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4661,
+                "stars": 4662,
                 "topics": [
                   "angular",
                   "i18n",
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8205,
+                    "stars": 8204,
                     "topics": [
                       "angular",
                       "ember",
@@ -1350,7 +1350,7 @@
                 "open_issues": 200,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7800,
+                "stars": 7801,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2024,7 +2024,7 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:53:23Z",
+            "last_commit": "2026-09-23T19:44:56Z",
             "open_issues": 12,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:35:05.340Z",
+    "last_updated": "2026-09-24T09:35:01.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
