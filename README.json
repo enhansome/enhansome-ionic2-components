@@ -1346,11 +1346,11 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T20:17:18Z",
-                "open_issues": 201,
+                "last_commit": "2026-09-27T23:59:55Z",
+                "open_issues": 194,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7800,
+                "stars": 7801,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:14:09.208Z",
+    "last_updated": "2026-09-28T11:16:28.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
