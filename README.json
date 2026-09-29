@@ -230,7 +230,7 @@
                 "id": 60182693,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-13T20:05:42Z",
+                "last_commit": "2026-09-28T20:56:58Z",
                 "open_issues": 138,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
@@ -644,7 +644,7 @@
                 "open_issues": 918,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4667,
+                "stars": 4668,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -676,7 +676,7 @@
                 "open_issues": 954,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "angular-2",
                   "angular2",
@@ -957,8 +957,8 @@
                 "id": 41480724,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T12:35:12Z",
-                "open_issues": 57,
+                "last_commit": "2026-09-28T16:03:02Z",
+                "open_issues": 56,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
                 "stars": 2401,
@@ -1264,7 +1264,7 @@
                 "open_issues": 309,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 194,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7801,
+                "stars": 7800,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1996,7 +1996,7 @@
             "open_issues": 67,
             "owner": "angular-redux",
             "repo": "store",
-            "stars": 1326,
+            "stars": 1324,
             "topics": [
               "angular",
               "ng2-redux",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:16:28.311Z",
+    "last_updated": "2026-09-29T10:55:45.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
