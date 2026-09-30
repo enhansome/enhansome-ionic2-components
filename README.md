@@ -70,7 +70,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Charts/Diagram
 
-* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,401 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-28 ![](angular.png)
+* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,401 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-29 ![](angular.png)
 * **D3 Approaches**
   * [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ⭐ 204 | 🐛 15 | 🌐 TypeScript | 📅 2020-03-26 ![](angular.png)
   * [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ⭐ 199 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-02 ![](angular.png)
@@ -110,7 +110,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,800 | 🐛 194 | 🌐 TypeScript | 📅 2026-09-27 ![](angular.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,801 | 🐛 194 | 🌐 TypeScript | 📅 2026-09-30 ![](angular.png)
 * [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,622 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-10 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,005 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
@@ -152,7 +152,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-25 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,586 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-25 ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 460 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 254 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
