@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T01:17:56Z",
-                "open_issues": 194,
+                "open_issues": 196,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7801,
@@ -2019,8 +2019,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A conference app built with Ionic to demonstrate Ionic",
-            "homepage": "https://ionic-conference-app-eta.vercel.app",
+            "description": "A conference app built with Ionic Framework and Angular to showcase components",
+            "homepage": "https://ionic-conference-app.vercel.app",
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
@@ -2028,7 +2028,7 @@
             "open_issues": 10,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3586,
+            "stars": 3587,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:46:17.404Z",
+    "last_updated": "2026-10-01T11:12:39.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
