@@ -784,8 +784,8 @@
                 "id": 70659082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T04:21:24Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-01T17:20:59Z",
+                "open_issues": 81,
                 "owner": "zyra",
                 "repo": "ionic-image-loader",
                 "stars": 430,
@@ -1264,7 +1264,7 @@
                 "open_issues": 309,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1983,
+                "stars": 1984,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T01:17:56Z",
-                "open_issues": 196,
+                "open_issues": 198,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7801,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:12:39.689Z",
+    "last_updated": "2026-10-02T10:45:17.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

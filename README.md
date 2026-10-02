@@ -60,7 +60,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 * [Lazy Load](https://github.com/tjoskar/ng2-lazyload-image) ⭐ 750 | 🐛 36 | 🌐 TypeScript | 📅 2023-03-04 ![](ionic.png) ![](angular.png)
 * [Lazy image loader](https://github.com/tjoskar/ng-lazyload-image) ⭐ 750 | 🐛 36 | 🌐 TypeScript | 📅 2023-03-04 ![](angular.png)
-* [Image Loader](https://github.com/zyramedia/ionic-image-loader) ⭐ 430 | 🐛 80 | 🌐 TypeScript | 📅 2026-09-12 ![](ionic.png)
+* [Image Loader](https://github.com/zyramedia/ionic-image-loader) ⭐ 430 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-01 ![](ionic.png)
 * [Image Viewer](https://github.com/Riron/ionic-img-viewer) ⭐ 279 | 🐛 31 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Signatur](https://github.com/wulfsolter/angular2-signaturepad) ⚠️ Archived ![](angular.png) works perfect with ![](ionic.png)
 * [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) ⭐ 163 | 🐛 28 | 🌐 TypeScript | 📅 2019-02-06 ![](ionic.png)
@@ -103,14 +103,14 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Authentication
 
-* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,983 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
+* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,984 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
 * [Auth with Token](https://github.com/neroniaky/angular2-token) ⭐ 367 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 ![](ionic.png) ![](angular.png)
 * [Auth with ionic2 SDK](https://github.com/LoginRadius/ionic2-sdk) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-07 ![](ionic.png)
 * [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,801 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-30 ![](angular.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,801 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-30 ![](angular.png)
 * [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,622 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-10 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,005 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
