@@ -1379,7 +1379,7 @@
                 "id": 44948282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T02:52:48Z",
+                "last_commit": "2026-10-03T12:38:35Z",
                 "open_issues": 20,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:05:17.411Z",
+    "last_updated": "2026-10-04T10:47:24.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
