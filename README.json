@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8203,
+                    "stars": 8202,
                     "topics": [
                       "angular",
                       "ember",
@@ -644,7 +644,7 @@
                 "open_issues": 918,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4668,
+                "stars": 4667,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -1346,8 +1346,8 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T01:17:56Z",
-                "open_issues": 204,
+                "last_commit": "2026-10-05T03:47:52Z",
+                "open_issues": 194,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7800,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:47:24.006Z",
+    "last_updated": "2026-10-05T11:52:27.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
