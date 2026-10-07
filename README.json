@@ -421,7 +421,7 @@
                         "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2816,
+                        "stars": 2815,
                         "topics": [
                           "angular",
                           "calendar",
@@ -644,7 +644,7 @@
                 "open_issues": 918,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4667,
+                "stars": 4668,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -961,7 +961,7 @@
                 "open_issues": 55,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2401,
+                "stars": 2400,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1194,7 +1194,7 @@
                 "open_issues": 49,
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
-                "stars": 914,
+                "stars": 912,
                 "topics": [
                   "angular",
                   "lightning",
@@ -1264,7 +1264,7 @@
                 "open_issues": 309,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T03:47:52Z",
-                "open_issues": 194,
+                "open_issues": 193,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7800,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:33:04.609Z",
+    "last_updated": "2026-10-07T11:22:56.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
