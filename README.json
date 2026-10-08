@@ -21,7 +21,7 @@
                 "open_issues": 57,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4661,
+                "stars": 4662,
                 "topics": [
                   "angular",
                   "i18n",
@@ -478,7 +478,7 @@
                         "open_issues": 47,
                         "owner": "nekken",
                         "repo": "ng2-fullcalendar",
-                        "stars": 94,
+                        "stars": 93,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
@@ -641,10 +641,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-11T04:04:02Z",
-                "open_issues": 918,
+                "open_issues": 917,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4668,
+                "stars": 4669,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T03:47:52Z",
-                "open_issues": 193,
+                "open_issues": 202,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7800,
@@ -1408,7 +1408,7 @@
                 "open_issues": 92,
                 "owner": "angulartics",
                 "repo": "angulartics2",
-                "stars": 1005,
+                "stars": 1006,
                 "topics": [
                   "analytics",
                   "angular",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:22:56.231Z",
+    "last_updated": "2026-10-08T11:38:32.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
