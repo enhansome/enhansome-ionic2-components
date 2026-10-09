@@ -15,7 +15,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Localization
 
-* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,662 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 ![](angular.png)
+* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,660 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 ![](angular.png)
 * [angular-I10n](https://github.com/robisim74/angular-l10n) ⭐ 374 | 🐛 3 | 🌐 TypeScript | 📅 2025-06-18 ![](angular.png)
 
 ### Menu, Tabs
@@ -40,7 +40,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,202 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
-  * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,815 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
+  * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,813 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
   * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 388 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-31  ![](ionic.png)
   * [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ⭐ 93 | 🐛 47 | 🌐 TypeScript | 📅 2018-05-26 ![](angular.png)
   * [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2017-10-12 ![](ionic.png)
@@ -52,9 +52,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Lists/Table
 
-* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,669 | 🐛 917 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
-* [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,618 | 🐛 954 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
-* [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 544 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 ![](angular.png)
+* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,668 | 🐛 916 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
+* [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,617 | 🐛 954 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
+* [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 543 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 ![](angular.png)
 
 ### Images
 
@@ -70,7 +70,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Charts/Diagram
 
-* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,400 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-29 ![](angular.png)
+* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,399 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-29 ![](angular.png)
 * **D3 Approaches**
   * [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ⭐ 204 | 🐛 15 | 🌐 TypeScript | 📅 2020-03-26 ![](angular.png)
   * [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ⭐ 199 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-02 ![](angular.png)
@@ -93,7 +93,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Frames
 
-* [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ⭐ 912 | 🐛 49 | 🌐 TypeScript | 📅 2024-07-03 ![](angular.png)
+* [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ⭐ 911 | 🐛 49 | 🌐 TypeScript | 📅 2024-07-03 ![](angular.png)
 
 ### Picker
 
@@ -103,15 +103,15 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Authentication
 
-* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,983 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
-* [Auth with Token](https://github.com/neroniaky/angular2-token) ⭐ 367 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 ![](ionic.png) ![](angular.png)
+* [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,982 | 🐛 309 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
+* [Auth with Token](https://github.com/neroniaky/angular2-token) ⭐ 366 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 ![](ionic.png) ![](angular.png)
 * [Auth with ionic2 SDK](https://github.com/LoginRadius/ionic2-sdk) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-07 ![](ionic.png)
 * [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,800 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-05 ![](angular.png)
-* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,622 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03 ![](angular.png) ![](ionic.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,799 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-05 ![](angular.png)
+* [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,621 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,006 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
 * [Salesforce Rest API](https://github.com/ccoenraets/forcejs) ⭐ 175 | 🐛 17 | 🌐 JavaScript | 📅 2018-01-12 ![](ionic.png) ![](angular.png)
@@ -134,7 +134,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ⚠️ Archived ![](ionic.png)
-* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,515 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
+* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,516 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ⚠️ Archived ![](ionic.png)
 * [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2017-01-02 ![](ionic.png)
 * [Update your App](https://github.com/NextFaze/ionic-manup) ⭐ 52 | 🐛 9 | 🌐 TypeScript | 📅 2020-09-04 ![](ionic.png)
@@ -148,7 +148,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Code Stuff
 
-* [Redux](https://github.com/angular-redux/store) ⭐ 1,324 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
+* [Redux](https://github.com/angular-redux/store) ⭐ 1,323 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
 
 ## Projects
 
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

@@ -21,7 +21,7 @@
                 "open_issues": 57,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4662,
+                "stars": 4660,
                 "topics": [
                   "angular",
                   "i18n",
@@ -421,7 +421,7 @@
                         "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2815,
+                        "stars": 2813,
                         "topics": [
                           "angular",
                           "calendar",
@@ -641,10 +641,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-11T04:04:02Z",
-                "open_issues": 917,
+                "open_issues": 916,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4669,
+                "stars": 4668,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -676,7 +676,7 @@
                 "open_issues": 954,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": [
                   "angular-2",
                   "angular2",
@@ -712,7 +712,7 @@
                 "open_issues": 319,
                 "owner": "valor-software",
                 "repo": "ng2-table",
-                "stars": 544,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -961,7 +961,7 @@
                 "open_issues": 55,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2400,
+                "stars": 2399,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1194,7 +1194,7 @@
                 "open_issues": 49,
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
-                "stars": 912,
+                "stars": 911,
                 "topics": [
                   "angular",
                   "lightning",
@@ -1264,7 +1264,7 @@
                 "open_issues": 309,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1983,
+                "stars": 1982,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1285,7 +1285,7 @@
                 "open_issues": 49,
                 "owner": "neroniaky",
                 "repo": "angular-token",
-                "stars": 367,
+                "stars": 366,
                 "topics": [
                   "angular",
                   "auth",
@@ -1350,7 +1350,7 @@
                 "open_issues": 202,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7800,
+                "stars": 7799,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1383,7 +1383,7 @@
                 "open_issues": 20,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2622,
+                "stars": 2621,
                 "topics": [
                   "angular",
                   "dx-sdk",
@@ -1996,7 +1996,7 @@
             "open_issues": 67,
             "owner": "angular-redux",
             "repo": "store",
-            "stars": 1324,
+            "stars": 1323,
             "topics": [
               "angular",
               "ng2-redux",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:38:32.592Z",
+    "last_updated": "2026-10-09T11:32:00.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
