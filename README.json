@@ -421,7 +421,7 @@
                         "open_issues": 98,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2813,
+                        "stars": 2812,
                         "topics": [
                           "angular",
                           "calendar",
@@ -1346,8 +1346,8 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T03:47:52Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-10T06:01:12Z",
+                "open_issues": 189,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7799,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:32:00.954Z",
+    "last_updated": "2026-10-10T10:50:04.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

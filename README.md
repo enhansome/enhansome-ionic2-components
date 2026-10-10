@@ -40,7 +40,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,202 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
-  * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,813 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
+  * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,812 | 🐛 98 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
   * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 388 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-31  ![](ionic.png)
   * [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ⭐ 93 | 🐛 47 | 🌐 TypeScript | 📅 2018-05-26 ![](angular.png)
   * [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2017-10-12 ![](ionic.png)
@@ -110,7 +110,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,799 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-05 ![](angular.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,799 | 🐛 189 | 🌐 TypeScript | 📅 2026-10-10 ![](angular.png)
 * [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,621 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,006 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
