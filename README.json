@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8202,
+                    "stars": 8204,
                     "topics": [
                       "angular",
                       "ember",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:13:59.156Z",
+    "last_updated": "2026-10-14T09:47:26.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

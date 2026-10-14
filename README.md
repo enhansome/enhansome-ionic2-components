@@ -37,7 +37,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,202 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,204 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
   * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,812 | 🐛 99 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
@@ -134,7 +134,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ⚠️ Archived ![](ionic.png)
-* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,516 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
+* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,515 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ⚠️ Archived ![](ionic.png)
 * [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2017-01-02 ![](ionic.png)
 * [Update your App](https://github.com/NextFaze/ionic-manup) ⭐ 52 | 🐛 9 | 🌐 TypeScript | 📅 2020-09-04 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
