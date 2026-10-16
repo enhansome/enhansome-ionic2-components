@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4661,
+                "stars": 4658,
                 "topics": [
                   "angular",
                   "i18n",
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8204,
+                    "stars": 8205,
                     "topics": [
                       "angular",
                       "ember",
@@ -421,7 +421,7 @@
                         "open_issues": 99,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2812,
+                        "stars": 2813,
                         "topics": [
                           "angular",
                           "calendar",
@@ -1350,7 +1350,7 @@
                 "open_issues": 190,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7798,
+                "stars": 7797,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1379,11 +1379,11 @@
                 "id": 44948282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T07:32:18Z",
+                "last_commit": "2026-10-15T09:39:57Z",
                 "open_issues": 23,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2621,
+                "stars": 2622,
                 "topics": [
                   "angular",
                   "dx-sdk",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:28:25.747Z",
+    "last_updated": "2026-10-16T09:21:00.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
