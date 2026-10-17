@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8205,
+                    "stars": 8204,
                     "topics": [
                       "angular",
                       "ember",
@@ -784,8 +784,8 @@
                 "id": 70659082,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:20:59Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-17T07:25:41Z",
+                "open_issues": 82,
                 "owner": "zyra",
                 "repo": "ionic-image-loader",
                 "stars": 430,
@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T06:01:12Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7797,
@@ -1996,7 +1996,7 @@
             "open_issues": 67,
             "owner": "angular-redux",
             "repo": "store",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "angular",
               "ng2-redux",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:21:00.644Z",
+    "last_updated": "2026-10-17T08:52:05.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
