@@ -230,8 +230,8 @@
                 "id": 60182693,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T20:56:58Z",
-                "open_issues": 138,
+                "last_commit": "2026-10-18T04:55:31Z",
+                "open_issues": 139,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
                 "stars": 481,
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8204,
+                    "stars": 8203,
                     "topics": [
                       "angular",
                       "ember",
@@ -2212,7 +2212,7 @@
             "open_issues": 5,
             "owner": "srehanuddin",
             "repo": "Ionic2-ResturantApp",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:52:05.139Z",
+    "last_updated": "2026-10-18T09:10:03.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

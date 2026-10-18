@@ -29,7 +29,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Form / Input
 
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ⭐ 1,307 | 🐛 128 | 🌐 TypeScript | 📅 2024-02-06 ![](angular.png)
-* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 481 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-28 ![](angular.png)
+* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 481 | 🐛 139 | 🌐 TypeScript | 📅 2026-10-18 ![](angular.png)
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ⭐ 146 | 🐛 32 | 🌐 TypeScript | 📅 2023-10-10 ![](ionic.png)
 * [Tags Input](https://github.com/HsuanXyz/ionic-tags-input) ⭐ 69 | 🐛 18 | 🌐 TypeScript | 📅 2020-03-11 ![](ionic.png)
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27 ![](ionic.png)
@@ -37,7 +37,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,204 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,203 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
   * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,813 | 🐛 99 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
@@ -159,7 +159,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 * [Weather app](https://github.com/aggarwalankush/ionic2-mosum) ⭐ 244 | 🐛 5 | 🌐 TypeScript | 📅 2021-07-09 ![](ionic.png)
 * [Push Notification](https://github.com/aggarwalankush/ionic2-push-base) ⭐ 162 | 🐛 7 | 🌐 TypeScript | 📅 2017-06-30 ![](ionic.png)
 * [Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) ⭐ 126 | 🐛 2 | 🌐 TypeScript | 📅 2017-12-11 ![](ionic.png)
-* [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ⭐ 94 | 🐛 5 | 🌐 JavaScript | 📅 2023-07-31 ![](ionic.png)
+* [Restaurant App](https://github.com/srehanuddin/Ionic2-ResturantApp) ⭐ 93 | 🐛 5 | 🌐 JavaScript | 📅 2023-07-31 ![](ionic.png)
 * [Geo Fence](https://github.com/tsubik/ionic2-geofence) ⭐ 91 | 🐛 5 | 🌐 CSS | 📅 2018-03-21 ![](ionic.png)
 * [Inoffical "Myki" App](https://github.com/longzheng/mypal-ionic) ⚠️ Archived ![](ionic.png)
 * [YouTube](https://github.com/hughred22/Ionic2-Angular2-YouTube-Channel-App) ⭐ 44 | 🐛 6 | 🌐 CSS | 📅 2016-12-01 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
