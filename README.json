@@ -17,8 +17,8 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T08:52:00Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-22T13:32:48Z",
+                "open_issues": 30,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4659,
@@ -961,7 +961,7 @@
                 "open_issues": 60,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2399,
+                "stars": 2398,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1261,7 +1261,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-05T09:19:08Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
                 "stars": 1983,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:41:23.898Z",
+    "last_updated": "2026-10-23T09:37:59.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
