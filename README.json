@@ -644,7 +644,7 @@
                 "open_issues": 916,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4666,
+                "stars": 4667,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -1347,10 +1347,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:01:58Z",
-                "open_issues": 197,
+                "open_issues": 200,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7796,
+                "stars": 7797,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1379,8 +1379,8 @@
                 "id": 44948282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T00:28:35Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-24T23:16:58Z",
+                "open_issues": 28,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
                 "stars": 2622,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:10:03.569Z",
+    "last_updated": "2026-10-25T09:27:14.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
