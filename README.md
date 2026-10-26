@@ -15,7 +15,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Localization
 
-* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,659 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-23 ![](angular.png)
+* [NgTranslate](https://github.com/ngx-translate/core) ⭐ 4,659 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-26 ![](angular.png)
 * [angular-I10n](https://github.com/robisim74/angular-l10n) ⭐ 374 | 🐛 3 | 🌐 TypeScript | 📅 2025-06-18 ![](angular.png)
 
 ### Menu, Tabs
@@ -104,7 +104,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 ### Authentication
 
 * [Support for OAuth 2 and OpenId Connect (OIDC) in Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc) ⭐ 1,983 | 🐛 310 | 🌐 TypeScript | 📅 2026-07-05 ![](ionic.png) ![](angular.png)
-* [Auth with Token](https://github.com/neroniaky/angular2-token) ⭐ 366 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 ![](ionic.png) ![](angular.png)
+* [Auth with Token](https://github.com/neroniaky/angular2-token) ⭐ 365 | 🐛 49 | 🌐 TypeScript | 📅 2024-01-22 ![](ionic.png) ![](angular.png)
 * [Auth with ionic2 SDK](https://github.com/LoginRadius/ionic2-sdk) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-07 ![](ionic.png)
 * [Social Login (Facebook, Google, LinkedIn](https://www.npmjs.com/package/angular2-social-login) ![](ionic.png) ![](angular.png)
 
@@ -134,7 +134,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,662 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ⚠️ Archived ![](ionic.png)
-* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,515 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
+* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,516 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ⚠️ Archived ![](ionic.png)
 * [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2017-01-02 ![](ionic.png)
 * [Update your App](https://github.com/NextFaze/ionic-manup) ⭐ 52 | 🐛 9 | 🌐 TypeScript | 📅 2020-09-04 ![](ionic.png)
@@ -148,7 +148,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Code Stuff
 
-* [Redux](https://github.com/angular-redux/store) ⭐ 1,323 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
+* [Redux](https://github.com/angular-redux/store) ⭐ 1,322 | 🐛 67 | 🌐 TypeScript | 📅 2019-05-05 ![](angular.png)
 
 ## Projects
 
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

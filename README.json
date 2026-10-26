@@ -17,8 +17,8 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T10:22:38Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-26T07:24:34Z",
+                "open_issues": 29,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4659,
@@ -1285,7 +1285,7 @@
                 "open_issues": 49,
                 "owner": "neroniaky",
                 "repo": "angular-token",
-                "stars": 366,
+                "stars": 365,
                 "topics": [
                   "angular",
                   "auth",
@@ -1996,7 +1996,7 @@
             "open_issues": 67,
             "owner": "angular-redux",
             "repo": "store",
-            "stars": 1323,
+            "stars": 1322,
             "topics": [
               "angular",
               "ng2-redux",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:27:14.272Z",
+    "last_updated": "2026-10-26T10:34:50.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
