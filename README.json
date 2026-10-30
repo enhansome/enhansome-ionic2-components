@@ -17,11 +17,11 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:16:49Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-29T15:07:44Z",
+                "open_issues": 26,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4660,
+                "stars": 4659,
                 "topics": [
                   "angular",
                   "i18n",
@@ -234,7 +234,7 @@
                 "open_issues": 142,
                 "owner": "guillotinaweb",
                 "repo": "ngx-schema-form",
-                "stars": 481,
+                "stars": 480,
                 "topics": [
                   "angular",
                   "angular2",
@@ -356,7 +356,7 @@
                     "open_issues": 331,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8205,
+                    "stars": 8204,
                     "topics": [
                       "angular",
                       "ember",
@@ -644,7 +644,7 @@
                 "open_issues": 916,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4666,
+                "stars": 4665,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -838,7 +838,7 @@
                 "open_issues": 17,
                 "owner": "wulfsolter",
                 "repo": "angular2-signaturepad",
-                "stars": 173,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1261,7 +1261,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-05T09:19:08Z",
-                "open_issues": 310,
+                "open_issues": 311,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
                 "stars": 1983,
@@ -1346,11 +1346,11 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T18:47:12Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-29T21:42:02Z",
+                "open_issues": 185,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7795,
+                "stars": 7794,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2024,11 +2024,11 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T18:02:41Z",
+            "last_commit": "2026-10-29T18:21:42Z",
             "open_issues": 15,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3586,
+            "stars": 3585,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T11:08:20.200Z",
+    "last_updated": "2026-10-30T11:03:05.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
