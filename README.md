@@ -37,7 +37,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,204 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,203 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
   * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,812 | 🐛 99 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
@@ -152,7 +152,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,586 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-01 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,586 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-02 ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,662 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 460 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 253 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
