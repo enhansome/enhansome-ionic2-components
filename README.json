@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4660,
+                "stars": 4659,
                 "topics": [
                   "angular",
                   "i18n",
@@ -280,7 +280,7 @@
                 "open_issues": 18,
                 "owner": "hsuanxyz",
                 "repo": "ionic-tags-input",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "ionic",
                   "ionic-tags",
@@ -421,7 +421,7 @@
                         "open_issues": 99,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2812,
+                        "stars": 2811,
                         "topics": [
                           "angular",
                           "calendar",
@@ -644,7 +644,7 @@
                 "open_issues": 916,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4666,
+                "stars": 4665,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -961,7 +961,7 @@
                 "open_issues": 60,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2397,
+                "stars": 2398,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1194,7 +1194,7 @@
                 "open_issues": 49,
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
-                "stars": 912,
+                "stars": 911,
                 "topics": [
                   "angular",
                   "lightning",
@@ -1264,7 +1264,7 @@
                 "open_issues": 312,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 193,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7793,
+                "stars": 7794,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2024,7 +2024,7 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T16:57:22Z",
+            "last_commit": "2026-11-04T12:09:51Z",
             "open_issues": 16,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:25:13.189Z",
+    "last_updated": "2026-11-04T12:37:00.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
