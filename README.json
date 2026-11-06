@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "ngx-translate",
                 "repo": "core",
-                "stars": 4659,
+                "stars": 4660,
                 "topics": [
                   "angular",
                   "i18n",
@@ -353,10 +353,10 @@
                     "language": "JavaScript",
                     "license": "Unlicense",
                     "last_commit": "2025-05-26T18:32:18Z",
-                    "open_issues": 331,
+                    "open_issues": 330,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8202,
+                    "stars": 8203,
                     "topics": [
                       "angular",
                       "ember",
@@ -1346,8 +1346,8 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T18:32:30Z",
-                "open_issues": 189,
+                "last_commit": "2026-11-06T01:14:56Z",
+                "open_issues": 170,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7794,
@@ -1969,7 +1969,7 @@
             "open_issues": 347,
             "owner": "ionic-team",
             "repo": "ionic-app-scripts",
-            "stars": 601,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2024,7 +2024,7 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T20:18:17Z",
+            "last_commit": "2026-11-05T21:59:08Z",
             "open_issues": 15,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:47:08.679Z",
+    "last_updated": "2026-11-06T12:31:43.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
