@@ -884,7 +884,7 @@
                 "open_issues": 5,
                 "owner": "VadimDez",
                 "repo": "ngx-img-fallback",
-                "stars": 81,
+                "stars": 82,
                 "topics": [
                   "angular",
                   "angular5",
@@ -1261,7 +1261,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-05T09:19:08Z",
-                "open_issues": 312,
+                "open_issues": 313,
                 "owner": "manfredsteyer",
                 "repo": "angular-oauth2-oidc",
                 "stars": 1983,
@@ -1347,7 +1347,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T01:14:56Z",
-                "open_issues": 170,
+                "open_issues": 172,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7794,
@@ -1686,7 +1686,7 @@
                 "open_issues": 48,
                 "owner": "danrevah",
                 "repo": "ngx-pipes",
-                "stars": 1573,
+                "stars": 1574,
                 "topics": [
                   "angular",
                   "javascript",
@@ -1752,7 +1752,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1661,
+            "stars": 1660,
             "topics": [
               "angular2",
               "angular4",
@@ -2049,7 +2049,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1661,
+            "stars": 1660,
             "topics": [
               "angular2",
               "angular4",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:31:43.247Z",
+    "last_updated": "2026-11-07T11:21:59.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
