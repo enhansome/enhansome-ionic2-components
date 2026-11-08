@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T14:23:43Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660,
@@ -2024,7 +2024,7 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T21:59:08Z",
+            "last_commit": "2026-11-08T01:08:54Z",
             "open_issues": 15,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:21:59.501Z",
+    "last_updated": "2026-11-08T11:33:52.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
