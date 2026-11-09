@@ -17,8 +17,8 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T14:23:43Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-09T06:03:49Z",
+                "open_issues": 29,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660,
@@ -356,7 +356,7 @@
                     "open_issues": 330,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8203,
+                    "stars": 8204,
                     "topics": [
                       "angular",
                       "ember",
@@ -644,7 +644,7 @@
                 "open_issues": 916,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4665,
+                "stars": 4664,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -961,7 +961,7 @@
                 "open_issues": 60,
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2398,
+                "stars": 2397,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1012,7 +1012,7 @@
                     "open_issues": 14,
                     "owner": "datencia",
                     "repo": "d3js-angular-examples",
-                    "stars": 199,
+                    "stars": 198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 172,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7794,
+                "stars": 7793,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1383,7 +1383,7 @@
                 "open_issues": 30,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2621,
+                "stars": 2620,
                 "topics": [
                   "angular",
                   "dx-sdk",
@@ -1969,7 +1969,7 @@
             "open_issues": 347,
             "owner": "ionic-team",
             "repo": "ionic-app-scripts",
-            "stars": 602,
+            "stars": 601,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:33:52.024Z",
+    "last_updated": "2026-11-09T13:25:23.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
