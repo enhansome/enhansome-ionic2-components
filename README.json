@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "robisim74",
                 "repo": "angular-l10n",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "angular",
                   "localization",
@@ -421,7 +421,7 @@
                         "open_issues": 99,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2811,
+                        "stars": 2810,
                         "topics": [
                           "angular",
                           "calendar",
@@ -1042,7 +1042,7 @@
                 "open_issues": 68,
                 "owner": "arielfaur",
                 "repo": "ionic-audio",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "angular2",
                   "angular4",
@@ -1346,11 +1346,11 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:14:56Z",
-                "open_issues": 172,
+                "last_commit": "2026-11-10T04:29:36Z",
+                "open_issues": 170,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7793,
+                "stars": 7794,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1752,7 +1752,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1660,
+            "stars": 1661,
             "topics": [
               "angular2",
               "angular4",
@@ -1781,7 +1781,7 @@
             "open_issues": 21,
             "owner": "marcoturi",
             "repo": "ionic-boilerplate",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "angular",
               "angular5",
@@ -2024,8 +2024,8 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T01:08:54Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-09T21:30:03Z",
+            "open_issues": 13,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3585,
@@ -2049,7 +2049,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1660,
+            "stars": 1661,
             "topics": [
               "angular2",
               "angular4",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:25:23.384Z",
+    "last_updated": "2026-11-10T13:03:45.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
