@@ -17,8 +17,8 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T06:03:49Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-10T17:59:09Z",
+                "open_issues": 27,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4660,
@@ -45,7 +45,7 @@
                 "id": 41914426,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2025-06-18T08:32:26Z",
+                "last_commit": "2026-11-11T10:58:03Z",
                 "open_issues": 3,
                 "owner": "robisim74",
                 "repo": "angular-l10n",
@@ -1194,7 +1194,7 @@
                 "open_issues": 49,
                 "owner": "ng-lightning",
                 "repo": "ng-lightning",
-                "stars": 911,
+                "stars": 910,
                 "topics": [
                   "angular",
                   "lightning",
@@ -1347,10 +1347,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T04:29:36Z",
-                "open_issues": 170,
+                "open_issues": 173,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7794,
+                "stars": 7795,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -1969,7 +1969,7 @@
             "open_issues": 347,
             "owner": "ionic-team",
             "repo": "ionic-app-scripts",
-            "stars": 601,
+            "stars": 602,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2028,7 +2028,7 @@
             "open_issues": 13,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3585,
+            "stars": 3586,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:03:45.162Z",
+    "last_updated": "2026-11-11T12:13:18.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
