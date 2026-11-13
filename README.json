@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-10T17:59:09Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4661,
@@ -356,7 +356,7 @@
                     "open_issues": 330,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8204,
+                    "stars": 8203,
                     "topics": [
                       "angular",
                       "ember",
@@ -1752,7 +1752,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1662,
+            "stars": 1661,
             "topics": [
               "angular2",
               "angular4",
@@ -2024,11 +2024,11 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T23:35:38Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-12T22:00:12Z",
+            "open_issues": 16,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3586,
+            "stars": 3587,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:26.215Z"
@@ -2049,7 +2049,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1662,
+            "stars": 1661,
             "topics": [
               "angular2",
               "angular4",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:19:22.619Z",
+    "last_updated": "2026-11-13T12:40:19.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
