@@ -1350,7 +1350,7 @@
                 "open_issues": 167,
                 "owner": "angular",
                 "repo": "angularfire",
-                "stars": 7794,
+                "stars": 7793,
                 "topics": [
                   "angular",
                   "angularfire",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:47:43.545Z",
+    "last_updated": "2026-11-15T12:19:09.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
