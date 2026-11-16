@@ -17,8 +17,8 @@
                 "id": 44045057,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T17:59:09Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-16T06:07:08Z",
+                "open_issues": 29,
                 "owner": "ngx-translate",
                 "repo": "core",
                 "stars": 4661,
@@ -676,7 +676,7 @@
                 "open_issues": 953,
                 "owner": "akveo",
                 "repo": "ng2-smart-table",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "angular-2",
                   "angular2",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:19:09.771Z",
+    "last_updated": "2026-11-16T13:11:15.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
