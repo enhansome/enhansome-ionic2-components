@@ -356,7 +356,7 @@
                     "open_issues": 330,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8202,
+                    "stars": 8201,
                     "topics": [
                       "angular",
                       "ember",
@@ -421,7 +421,7 @@
                         "open_issues": 99,
                         "owner": "mattlewis92",
                         "repo": "angular-calendar",
-                        "stars": 2810,
+                        "stars": 2809,
                         "topics": [
                           "angular",
                           "calendar",
@@ -1346,8 +1346,8 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T15:41:38Z",
-                "open_issues": 167,
+                "last_commit": "2026-11-18T05:23:20Z",
+                "open_issues": 169,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7793,
@@ -2024,7 +2024,7 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T21:45:45Z",
+            "last_commit": "2026-11-18T02:21:31Z",
             "open_issues": 20,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:54:43.072Z",
+    "last_updated": "2026-11-18T13:30:34.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
