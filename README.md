@@ -52,7 +52,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Lists/Table
 
-* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,664 | 🐛 916 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
+* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,665 | 🐛 919 | 🌐 TypeScript | 📅 2026-08-11 ![](angular.png)
 * [Smart table (sorting, filtering ...)](https://github.com/akveo/ng2-smart-table) ⭐ 1,618 | 🐛 953 | 🌐 TypeScript | 📅 2024-08-12 ![](angular.png)
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 543 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26 ![](angular.png)
 
@@ -110,7 +110,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ### Others
 
-* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,793 | 🐛 169 | 🌐 TypeScript | 📅 2026-11-18 ![](angular.png)
+* [Firebase Rest API](https://github.com/angular/angularfire2) ⭐ 7,794 | 🐛 167 | 🌐 TypeScript | 📅 2026-11-19 ![](angular.png)
 * [JSON Web Token (JWT)](https://github.com/auth0/angular2-jwt) ⭐ 2,620 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-26 ![](angular.png) ![](ionic.png)
 * [Analytics (Google, Piwik, Kissmetrics and more)](https://github.com/angulartics/angulartics2) ⭐ 1,005 | 🐛 92 | 🌐 TypeScript | 📅 2026-01-13 ![](angular.png)
 * [Facebook Wrapper](https://github.com/zyramedia/ng2-facebook-sdk) ⭐ 207 | 🐛 47 | 🌐 TypeScript | 📅 2020-06-14 ![](angular.png)
@@ -152,7 +152,7 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-18 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-19 ![](ionic.png)
 * [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,660 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 459 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 253 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
