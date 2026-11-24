@@ -353,10 +353,10 @@
                     "language": "JavaScript",
                     "license": "Unlicense",
                     "last_commit": "2025-05-26T18:32:18Z",
-                    "open_issues": 330,
+                    "open_issues": 329,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8198,
+                    "stars": 8197,
                     "topics": [
                       "angular",
                       "ember",
@@ -478,7 +478,7 @@
                         "open_issues": 47,
                         "owner": "nekken",
                         "repo": "ng2-fullcalendar",
-                        "stars": 93,
+                        "stars": 92,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:57:26.215Z"
@@ -1752,7 +1752,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1659,
+            "stars": 1658,
             "topics": [
               "angular2",
               "angular4",
@@ -2024,8 +2024,8 @@
             "id": 43385504,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T12:51:45Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-24T01:03:59Z",
+            "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3587,
@@ -2049,7 +2049,7 @@
             "open_issues": 23,
             "owner": "yannbf",
             "repo": "ionic3-components",
-            "stars": 1659,
+            "stars": 1658,
             "topics": [
               "angular2",
               "angular4",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:26:10.810Z",
+    "last_updated": "2026-11-24T15:20:54.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",

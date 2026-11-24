@@ -37,12 +37,12 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 #### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,198 | 🐛 330 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,197 | 🐛 329 | 🌐 JavaScript | 📅 2025-05-26
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06  ![](ionic.png)
 * **Calendar**
   * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,809 | 🐛 100 | 🌐 TypeScript | 📅 2026-04-08 ![](angular.png) (very powerful)
   * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 388 | 🐛 115 | 🌐 TypeScript | 📅 2026-05-31  ![](ionic.png)
-  * [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ⭐ 93 | 🐛 47 | 🌐 TypeScript | 📅 2018-05-26 ![](angular.png)
+  * [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) ⭐ 92 | 🐛 47 | 🌐 TypeScript | 📅 2018-05-26 ![](angular.png)
   * [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2017-10-12 ![](ionic.png)
   * [Calendar](https://github.com/redpandatronicsuk/ionic2calendar) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2017-09-22 ![](ionic.png)
 * **Datepicker**
@@ -132,9 +132,9 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Boilerplate/Demo Apps
 
-* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,659 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,658 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate) ⚠️ Archived ![](ionic.png)
-* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,512 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
+* [ORC Scan App](https://github.com/matiastucci/ionic-ocr-example) ⭐ 260 | 🐛 3 | 🌐 JavaScript | 📅 2016-12-21 ![](ionic.png) based on [ocrad.js](https://github.com/antimatter15/ocrad.js) ⭐ 3,511 | 🐛 28 | 🌐 JavaScript | 📅 2020-09-02
 * [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example) ⚠️ Archived ![](ionic.png)
 * [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app) ⭐ 64 | 🐛 4 | 🌐 TypeScript | 📅 2017-01-02 ![](ionic.png)
 * [Update your App](https://github.com/NextFaze/ionic-manup) ⭐ 52 | 🐛 9 | 🌐 TypeScript | 📅 2020-09-04 ![](ionic.png)
@@ -152,8 +152,8 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ## Projects
 
-* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-23 ![](ionic.png)
-* [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,659 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
+* [Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-24 ![](ionic.png)
+* [Component Examples](https://github.com/yannbf/ionic3-components) ⭐ 1,658 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27 ![](ionic.png)
 * [Chat Examples](https://github.com/HsuanXyz/ionic3-chat) ⭐ 459 | 🐛 25 | 🌐 TypeScript | 📅 2023-01-23 ![](ionic.png)
 * [Realty](https://github.com/ccoenraets/ionic2-realty) ⭐ 253 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15 ![](ionic.png)
 * [Weather app](https://github.com/aggarwalankush/ionic2-mosum) ⭐ 244 | 🐛 5 | 🌐 TypeScript | 📅 2021-07-09 ![](ionic.png)
@@ -181,4 +181,4 @@ It should help you to get awesome components and plugins for Ionic2. It contains
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
