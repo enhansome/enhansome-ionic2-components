@@ -1383,7 +1383,7 @@
                 "open_issues": 30,
                 "owner": "auth0",
                 "repo": "angular2-jwt",
-                "stars": 2620,
+                "stars": 2619,
                 "topics": [
                   "angular",
                   "dx-sdk",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:20:54.908Z",
+    "last_updated": "2026-11-25T15:01:55.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
