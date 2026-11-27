@@ -356,7 +356,7 @@
                     "open_issues": 329,
                     "owner": "text-mask",
                     "repo": "text-mask",
-                    "stars": 8197,
+                    "stars": 8196,
                     "topics": [
                       "angular",
                       "ember",
@@ -1346,8 +1346,8 @@
                 "id": 49453413,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T04:58:17Z",
-                "open_issues": 168,
+                "last_commit": "2026-11-27T01:22:00Z",
+                "open_issues": 165,
                 "owner": "angular",
                 "repo": "angularfire",
                 "stars": 7794,
@@ -1408,7 +1408,7 @@
                 "open_issues": 92,
                 "owner": "angulartics",
                 "repo": "angulartics2",
-                "stars": 1004,
+                "stars": 1003,
                 "topics": [
                   "analytics",
                   "angular",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:31:54.553Z",
+    "last_updated": "2026-11-27T14:27:12.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "Should help you to get awesome components and plugins for Ionic2",
